@@ -1,0 +1,1001 @@
+id_denuncia;tipo_de_denuncia;id_violencia;tipo_violencia;periodo_dia;endereco;estado;nome;idade;identidade_de_genero;orientacao_sexual;etnia;escolaridade;genero_biologico
+1;Assedio;1;Moral;Manha;Campo Ana Cecília Peixoto, 627;SP;Srta. Melissa da Rosa;149;Mulher Cisgenero;Pansexual;Branco;Ensino Superior Completo;Masculino
+2;;2;Patrimonial;Madrugada;;;;64;;;;;
+3;Invalido;3;Patrimonial;Noite;Residencial Francisco Peixoto, 440;MA;Breno Mendonça;86;Homem Cisgenero;Homossexual;Amarelo;Ensino Medio Incompleto;Feminino
+4;Violencia Domestica;4;Sexual;Tarde;Fazenda Isabelly Marques, 900;BA;Vitor da Rocha;53;Mulher Cisgenero;Heterossexual;Pardo;Ensino Fundamental Completo;Feminino
+5;Outros;5;Moral;Madrugada;Campo da Luz, 560;AC;Emanuella Silva;31;Mulher Cisgenero;Heterossexual;Amarelo;Ensino Medio Completo;Masculino
+6;Agressao;6;Psicologica;Manha;Condomínio de Mendonça, 886;ES;Natália da Rosa;20;Nao-Binario;Bissexual;Branco;Ensino Superior Completo;Masculino
+7;Invalido;7;Patrimonial;Noite;Trevo Almeida, 952;PE;Murilo Aparecida;55;Homem Cisgenero;Homossexual;Amarelo;Ensino Superior Completo;Feminino
+8;;8;Fisica;Madrugada;;;;107;;;;;
+9;Invalido;9;Moral;Manha;Fazenda Giovanna Pimenta, 722;ES;Sra. Ana Clara Vasconcelos;57;Homem Transgenero;Heterossexual;Pardo;Ensino Superior Completo;Feminino
+10;Violencia Domestica;10;Psicologica;Tarde;Alameda Luna Castro, 919;MG;Carlos Eduardo Costela;152;Homem Cisgenero;Homossexual;Indigena;Ensino Medio Incompleto;Masculino
+11;Assedio;11;Psicologica;Tarde;Condomínio de da Rosa, 395;MT;Dr. Isaque Correia;65;Mulher Cisgenero;Heterossexual;Negro;Ensino Fundamental Completo;Feminino
+12;Violencia Domestica;12;Psicologica;Manha;Viela Gomes, 942;XX;Caroline Lima;34;Mulher Transgenero;Pansexual;Branco;Ensino Medio Completo;Feminino
+13;Violencia Domestica;13;Sexual;Madrugada;Conjunto Ramos, 344;XX;João Guilherme Câmara;24;Mulher Transgenero;Homossexual;Indigena;Ensino Superior Completo;Masculino
+14;;14;Patrimonial;Manha;;;;108;;;;;
+15;Discriminacao;15;Sexual;Tarde;Aeroporto Freitas, 96;MA;Sra. Evelyn Teixeira;11;Homem Cisgenero;Heterossexual;Amarelo;Ensino Fundamental Incompleto;Feminino
+16;Discriminacao;16;Fisica;Noite;Setor Manuella Castro, 829;XX;Erick Vasconcelos;7;Mulher Transgenero;Homossexual;Negro;Pos-graduacao;Masculino
+17;Violencia Domestica;17;Moral;Tarde;Estação de Lopes, 20;RS;Sr. Paulo Nogueira;121;Mulher Cisgenero;Bissexual;Indigena;Ensino Superior Incompleto;Masculino
+18;Invalido;18;Sexual;Manha;Favela Sara Vieira, 904;PR;Sr. Samuel Casa Grande;12;Mulher Transgenero;Pansexual;Amarelo;Ensino Fundamental Completo;Masculino
+19;Outros;19;Sexual;Noite;Residencial Viana, 163;PB;Anthony Gabriel da Luz;161;Homem Cisgenero;Pansexual;Negro;Ensino Medio Completo;Feminino
+20;Discriminacao;20;Psicologica;Manha;Via Dias, 77;XX;Isaque Ramos;100;Homem Cisgenero;Heterossexual;Indigena;Ensino Fundamental Completo;Feminino
+21;Violencia Domestica;21;Moral;Noite;Viela de Albuquerque, 755;RJ;Dra. Olívia Albuquerque;5;Nao-Binario;Bissexual;Pardo;Ensino Medio Completo;Feminino
+22;;22;Psicologica;Noite;;;;26;;;;;
+23;Assedio;23;Psicologica;Manha;Parque Nascimento, 471;RS;Esther Ribeiro;161;Mulher Transgenero;Pansexual;Branco;Ensino Fundamental Incompleto;Masculino
+24;Discriminacao;24;Psicologica;Tarde;Loteamento João Lucas Barbosa, 51;CE;Pedro Miguel Montenegro;34;Homem Transgenero;Heterossexual;Branco;Ensino Medio Incompleto;Feminino
+25;Invalido;25;Sexual;Tarde;Travessa de Cavalcanti, 793;AL;Srta. Maysa Gonçalves;53;Mulher Cisgenero;Bissexual;Negro;Ensino Superior Incompleto;Masculino
+26;Agressao;26;Moral;Tarde;Campo de Lopes, 497;SP;Marcela Silveira;171;Mulher Transgenero;Pansexual;Branco;Ensino Fundamental Incompleto;Masculino
+27;Discriminacao;27;Moral;Tarde;Lagoa de da Mota, 450;RO;Luiz Henrique Nogueira;125;Nao-Binario;Heterossexual;Pardo;Pos-graduacao;Masculino
+28;;28;Psicologica;Tarde;;;;104;;;;;
+29;Outros;29;Psicologica;Tarde;Trevo Yasmin Nunes, 442;MA;Benjamin Andrade;nan;Mulher Cisgenero;Bissexual;Pardo;Ensino Superior Completo;Feminino
+30;Invalido;30;Sexual;Manha;Passarela Casa Grande, 460;PI;Ana Liz Andrade;55;Homem Transgenero;Heterossexual;Indigena;Ensino Medio Incompleto;Masculino
+31;Outros;31;Psicologica;Manha;Viaduto Barros, 747;XX;Marcelo Cavalcante;32;Mulher Cisgenero;Heterossexual;Pardo;Ensino Superior Incompleto;Masculino
+32;Invalido;32;Sexual;Noite;Trecho Pietra da Paz, 568;SE;Srta. Maria Santos;92;Homem Cisgenero;Heterossexual;Negro;Ensino Fundamental Completo;Feminino
+33;Violencia Domestica;33;Patrimonial;Manha;Conjunto de Cavalcanti, 929;ES;Laura Novais;16;Nao-Binario;Pansexual;Negro;Ensino Fundamental Incompleto;Masculino
+34;Discriminacao;34;Fisica;Tarde;Aeroporto de Garcia, 46;RJ;Henry Gabriel Farias;182;Mulher Transgenero;Bissexual;Indigena;Ensino Fundamental Incompleto;Masculino
+35;Agressao;35;Moral;Noite;Estrada Benício Correia, 289;XX;Srta. Maitê Araújo;80;Mulher Transgenero;Heterossexual;Amarelo;Ensino Fundamental Incompleto;Masculino
+36;;36;Sexual;Noite;;;;97;;;;;
+37;;37;Sexual;Noite;;;;29;;;;;
+38;Discriminacao;38;Patrimonial;Manha;Campo Costa, 706;PB;Ravi Sales;6;Homem Cisgenero;Heterossexual;Pardo;Ensino Fundamental Completo;Masculino
+39;Invalido;39;Psicologica;Noite;Trevo de Vargas, 274;CE;Ísis Almeida;74;Mulher Cisgenero;Bissexual;Indigena;Pos-graduacao;Feminino
+40;Outros;40;Psicologica;Manha;Sítio Lopes, 91;PE;Sr. Cauê Castro;nan;Homem Cisgenero;Heterossexual;Indigena;Ensino Superior Completo;Feminino
+41;;41;Fisica;Madrugada;;;;75;;;;;
+42;Discriminacao;42;Sexual;Noite;Setor Bento Melo, 532;MT;Isis Moura;nan;Homem Transgenero;Pansexual;Indigena;Pos-graduacao;Masculino
+43;Invalido;43;Moral;Noite;Travessa de Porto, 156;RN;Maya Abreu;21;Mulher Transgenero;Homossexual;Negro;Ensino Superior Completo;Masculino
+44;Violencia Domestica;44;Patrimonial;Madrugada;Travessa Maria Alice Sampaio, 155;XX;Agatha Abreu;43;Homem Transgenero;Pansexual;Indigena;Ensino Superior Incompleto;Feminino
+45;Discriminacao;45;Patrimonial;Noite;Lago de Barros, 968;AL;Henry Souza;131;Homem Transgenero;Assexual;Branco;Ensino Fundamental Completo;Masculino
+46;Violencia Domestica;46;Moral;Noite;Estação Aparecida, 227;XX;Stella Nunes;68;Nao-Binario;Heterossexual;Negro;Ensino Medio Completo;Feminino
+47;Invalido;47;Moral;Manha;Estação de Pinto, 203;CE;Henrique Camargo;65;Nao-Binario;Assexual;Indigena;Pos-graduacao;Feminino
+48;;48;Moral;Noite;;;;23;;;;;
+49;Discriminacao;49;Patrimonial;Tarde;Viela Pietro Rodrigues, 301;XX;Davi Rodrigues;99;Mulher Transgenero;Homossexual;Negro;Ensino Fundamental Completo;Masculino
+50;Agressao;50;Psicologica;Manha;Praia Luísa Rios, 729;PI;Elisa Pimenta;105;Nao-Binario;Homossexual;Negro;Ensino Superior Incompleto;Masculino
+51;Assedio;51;Psicologica;Manha;Núcleo Gustavo Henrique Moraes, 140;XX;Emanuel Fonseca;6;Homem Cisgenero;Assexual;Indigena;Ensino Medio Incompleto;Feminino
+52;Outros;52;Fisica;Tarde;Largo Moreira, 455;RJ;Allana da Costa;1;Homem Cisgenero;Heterossexual;Branco;Ensino Superior Completo;Feminino
+53;;53;Fisica;Tarde;;;;20;;;;;
+54;Invalido;54;Sexual;Manha;Morro de Camargo, 357;RS;Sra. Maria Laura Duarte;94;Mulher Cisgenero;Assexual;Amarelo;Ensino Superior Completo;Feminino
+55;Discriminacao;55;Psicologica;Tarde;Condomínio Dias, 338;XX;Gustavo Montenegro;17;Mulher Cisgenero;Homossexual;Negro;Ensino Superior Completo;Feminino
+56;Violencia Domestica;56;Psicologica;Tarde;Jardim de Siqueira, 285;TO;Srta. Esther Azevedo;126;Nao-Binario;Bissexual;Amarelo;Ensino Fundamental Completo;Masculino
+57;Invalido;57;Moral;Madrugada;Área Luna Cunha, 616;AC;Matheus Freitas;31;Nao-Binario;Heterossexual;Negro;Ensino Superior Incompleto;Feminino
+58;;58;Moral;Manha;;;;7;;;;;
+59;Discriminacao;59;Patrimonial;Manha;Travessa Vargas, 792;AP;Carlos Eduardo Costela;55;Nao-Binario;Assexual;Pardo;Ensino Superior Completo;Feminino
+60;Violencia Domestica;60;Fisica;Tarde;Aeroporto Caroline Sousa, 403;RS;Juliana Moura;129;Homem Transgenero;Heterossexual;Branco;Ensino Superior Completo;Feminino
+61;Violencia Domestica;61;Psicologica;Noite;Estação Ramos, 550;PI;Matheus Farias;nan;Homem Cisgenero;Homossexual;Amarelo;Pos-graduacao;Masculino
+62;;62;Moral;Noite;;;;51;;;;;
+63;Assedio;63;Psicologica;Manha;Avenida Teixeira, 792;RN;João Fonseca;131;Nao-Binario;Homossexual;Negro;Ensino Fundamental Incompleto;Masculino
+64;Assedio;64;Psicologica;Madrugada;Morro Macedo, 393;RJ;Bianca Dias;128;Homem Transgenero;Pansexual;Negro;Pos-graduacao;Masculino
+65;;65;Sexual;Manha;;;;10;;;;;
+66;Invalido;66;Moral;Noite;Esplanada Agatha Pimenta, 602;CE;Ana Liz Borges;0;Nao-Binario;Bissexual;Pardo;Ensino Superior Incompleto;Masculino
+67;Agressao;67;Fisica;Madrugada;Vila de Teixeira, 492;PA;João Guilherme Abreu;nan;Mulher Cisgenero;Heterossexual;Negro;Ensino Superior Incompleto;Feminino
+68;Assedio;68;Moral;Noite;Estação Maya Monteiro, 377;AP;Dra. Jade da Rosa;7;Mulher Transgenero;Pansexual;Negro;Ensino Fundamental Completo;Feminino
+69;Assedio;69;Moral;Manha;Favela Vitor Gabriel Moreira, 446;XX;Benicio Peixoto;60;Mulher Cisgenero;Pansexual;Pardo;Ensino Fundamental Completo;Feminino
+70;Invalido;70;Psicologica;Manha;Estrada Cavalcante, 871;DF;José Pedro Sá;28;Mulher Transgenero;Bissexual;Indigena;Ensino Superior Completo;Feminino
+71;;71;Patrimonial;Noite;;;;59;;;;;
+72;Discriminacao;72;Sexual;Tarde;Aeroporto Giovanna Lopes, 939;XX;Dra. Maria Eduarda Pastor;65;Mulher Cisgenero;Pansexual;Pardo;Ensino Fundamental Completo;Masculino
+73;Invalido;73;Sexual;Tarde;Pátio Santos, 846;SP;Luiza Camargo;74;Nao-Binario;Assexual;Negro;Ensino Superior Incompleto;Feminino
+74;Agressao;74;Sexual;Manha;Conjunto de Garcia, 430;PE;Nina Vargas;88;Mulher Cisgenero;Pansexual;Amarelo;Ensino Superior Completo;Feminino
+75;Discriminacao;75;Patrimonial;Tarde;Jardim Otávio Lopes, 287;AP;Ana Clara Costela;169;Homem Cisgenero;Pansexual;Pardo;Ensino Fundamental Completo;Feminino
+76;Invalido;76;Sexual;Madrugada;Lagoa Melissa Aparecida, 576;PE;Davi Lucas Gomes;37;Nao-Binario;Homossexual;Indigena;Ensino Medio Incompleto;Feminino
+77;Outros;77;Sexual;Tarde;Esplanada Maria Sophia Brito, 215;SP;Fernanda Leão;nan;Mulher Transgenero;Bissexual;Amarelo;Ensino Medio Incompleto;Masculino
+78;Invalido;78;Patrimonial;Noite;Chácara de Ribeiro, 394;AP;Maria Cecília Brito;55;Mulher Cisgenero;Assexual;Branco;Ensino Superior Completo;Masculino
+79;Invalido;79;Fisica;Noite;Feira de Viana, 617;AM;Alexia Lopes;41;Mulher Transgenero;Heterossexual;Amarelo;Ensino Medio Completo;Feminino
+80;Discriminacao;80;Psicologica;Manha;Esplanada de Costa, 365;AM;João Lucas Nunes;89;Nao-Binario;Heterossexual;Pardo;Ensino Fundamental Completo;Feminino
+81;Invalido;81;Psicologica;Tarde;Recanto de Silveira, 617;RS;Lara Teixeira;0;Mulher Cisgenero;Heterossexual;Branco;Pos-graduacao;Masculino
+82;Violencia Domestica;82;Moral;Madrugada;Esplanada Andrade, 949;RO;Hadassa Mendes;37;Homem Transgenero;Heterossexual;Amarelo;Ensino Superior Completo;Masculino
+83;Outros;83;Moral;Tarde;Chácara de Costela, 229;RJ;Maria Eduarda Azevedo;180;Homem Transgenero;Homossexual;Negro;Ensino Medio Completo;Feminino
+84;;84;Patrimonial;Madrugada;;;;76;;;;;
+85;Invalido;85;Patrimonial;Tarde;Loteamento de Lopes, 162;RR;Yago Sá;26;Homem Cisgenero;Heterossexual;Negro;Ensino Superior Incompleto;Masculino
+86;Outros;86;Moral;Tarde;Travessa de Araújo, 702;XX;Lorenzo Souza;81;Homem Cisgenero;Bissexual;Branco;Pos-graduacao;Masculino
+87;Invalido;87;Moral;Madrugada;Vale de Santos, 31;RR;Dra. Sabrina Sousa;68;Homem Cisgenero;Pansexual;Indigena;Ensino Superior Completo;Feminino
+88;Assedio;88;Moral;Tarde;Vila Siqueira, 779;ES;Fernando Cavalcanti;110;Nao-Binario;Homossexual;Amarelo;Ensino Fundamental Completo;Feminino
+89;Invalido;89;Patrimonial;Noite;Viela Moreira, 121;MG;Marcelo Moreira;7;Mulher Cisgenero;Assexual;Negro;Ensino Medio Completo;Feminino
+90;Discriminacao;90;Moral;Manha;Residencial Olivia Almeida, 525;AL;Lavínia Lima;177;Homem Cisgenero;Assexual;Negro;Ensino Superior Incompleto;Feminino
+91;Invalido;91;Psicologica;Tarde;Fazenda de Sales, 318;RR;Ana Vitória Rios;13;Mulher Cisgenero;Pansexual;Negro;Ensino Fundamental Incompleto;Masculino
+92;Assedio;92;Psicologica;Manha;Ladeira de da Costa, 809;XX;Alícia Pastor;19;Mulher Transgenero;Heterossexual;Amarelo;Ensino Fundamental Completo;Masculino
+93;Discriminacao;93;Fisica;Manha;Vila Cavalcante, 416;RN;Pietro Leão;nan;Homem Cisgenero;Heterossexual;Branco;Ensino Medio Completo;Feminino
+94;;94;Psicologica;Noite;;;;14;;;;;
+95;Discriminacao;95;Psicologica;Manha;Lago Cassiano, 372;XX;Zoe Pacheco;38;Homem Transgenero;Bissexual;Pardo;Ensino Superior Completo;Feminino
+96;;96;Psicologica;Noite;;;;85;;;;;
+97;Violencia Domestica;97;Sexual;Manha;Avenida Moreira, 656;PI;Giovanna Cirino;nan;Nao-Binario;Pansexual;Indigena;Pos-graduacao;Masculino
+98;Invalido;98;Sexual;Madrugada;Avenida Kamilly Pacheco, 13;TO;Sabrina Barros;43;Mulher Cisgenero;Assexual;Branco;Ensino Fundamental Incompleto;Feminino
+99;Discriminacao;99;Fisica;Noite;Via Théo da Paz, 44;RR;Clarice Costela;172;Nao-Binario;Heterossexual;Amarelo;Ensino Fundamental Completo;Feminino
+100;Discriminacao;100;Psicologica;Madrugada;Trevo da Rocha, 997;XX;Alícia Cavalcante;18;Homem Cisgenero;Bissexual;Branco;Pos-graduacao;Masculino
+101;Discriminacao;101;Patrimonial;Manha;Travessa Heitor Rodrigues, 182;PA;Yago Sá;99;Mulher Cisgenero;Pansexual;Negro;Ensino Medio Incompleto;Feminino
+102;;102;Patrimonial;Manha;;;;45;;;;;
+103;Invalido;103;Psicologica;Noite;Passarela de Pereira, 272;MS;Gabriela da Costa;39;Mulher Cisgenero;Pansexual;Negro;Ensino Fundamental Completo;Feminino
+104;Agressao;104;Sexual;Manha;Colônia Costa, 219;GO;Dr. Theodoro Viana;56;Mulher Transgenero;Bissexual;Negro;Ensino Medio Completo;Feminino
+105;Invalido;105;Sexual;Tarde;Largo das Neves, 701;AC;Liz Cunha;85;Homem Cisgenero;Bissexual;Branco;Ensino Superior Completo;Feminino
+106;Discriminacao;106;Sexual;Madrugada;Sítio Marques, 913;AM;Maria Luísa Silva;93;Nao-Binario;Heterossexual;Amarelo;Ensino Superior Completo;Feminino
+107;Discriminacao;107;Sexual;Madrugada;Esplanada Siqueira, 936;AP;Ana Júlia das Neves;nan;Nao-Binario;Heterossexual;Negro;Pos-graduacao;Masculino
+108;Outros;108;Sexual;Manha;Quadra de Silva, 493;PI;Maitê Moura;140;Mulher Cisgenero;Assexual;Negro;Ensino Fundamental Completo;Feminino
+109;Invalido;109;Patrimonial;Manha;Vale de Camargo, 878;GO;Henry Rios;54;Mulher Transgenero;Assexual;Branco;Ensino Medio Completo;Masculino
+110;Discriminacao;110;Fisica;Noite;Colônia Aragão, 67;SC;José Miguel Aragão;75;Mulher Cisgenero;Heterossexual;Pardo;Ensino Medio Completo;Feminino
+111;Outros;111;Moral;Noite;Fazenda Rodrigues, 423;AM;Maria Isis Costa;nan;Homem Cisgenero;Pansexual;Pardo;Ensino Superior Incompleto;Feminino
+112;;112;Fisica;Tarde;;;;38;;;;;
+113;Assedio;113;Patrimonial;Madrugada;Condomínio da Mata, 490;PA;Breno da Costa;nan;Nao-Binario;Homossexual;Amarelo;Ensino Medio Incompleto;Masculino
+114;Invalido;114;Patrimonial;Noite;Estrada de Albuquerque, 854;BA;Caio Farias;99;Nao-Binario;Assexual;Indigena;Ensino Fundamental Incompleto;Feminino
+115;Assedio;115;Psicologica;Tarde;Alameda Nogueira, 549;MS;João Miguel Pimenta;21;Homem Cisgenero;Homossexual;Branco;Ensino Superior Incompleto;Feminino
+116;Invalido;116;Fisica;Manha;Trevo de da Rocha, 816;CE;Dr. Ian Mendes;25;Nao-Binario;Homossexual;Negro;Ensino Medio Completo;Masculino
+117;;117;Sexual;Manha;;;;19;;;;;
+118;Violencia Domestica;118;Patrimonial;Tarde;Viaduto de Novaes, 744;XX;Ian Gomes;38;Mulher Cisgenero;Pansexual;Indigena;Ensino Superior Incompleto;Feminino
+119;Outros;119;Moral;Madrugada;Vereda João Pedro Montenegro, 622;GO;Alexia Lima;nan;Homem Cisgenero;Homossexual;Branco;Ensino Fundamental Incompleto;Masculino
+120;Invalido;120;Moral;Tarde;Vale Aylla Ramos, 31;MS;Melina Almeida;25;Mulher Transgenero;Pansexual;Branco;Ensino Medio Completo;Feminino
+121;Assedio;121;Patrimonial;Noite;Distrito de da Paz, 124;DF;Juan Fogaça;70;Homem Transgenero;Homossexual;Branco;Pos-graduacao;Feminino
+122;Agressao;122;Psicologica;Tarde;Largo de Barros, 839;AC;Srta. Kamilly Barros;84;Homem Transgenero;Bissexual;Amarelo;Ensino Superior Completo;Masculino
+123;;123;Sexual;Noite;;;;96;;;;;
+124;;124;Psicologica;Manha;;;;108;;;;;
+125;;125;Patrimonial;Manha;;;;64;;;;;
+126;Discriminacao;126;Sexual;Manha;Alameda Moraes, 562;RN;Antonella Albuquerque;nan;Mulher Transgenero;Assexual;Amarelo;Pos-graduacao;Masculino
+127;Invalido;127;Sexual;Noite;Pátio de Campos, 531;TO;Ana Júlia Nogueira;1;Homem Transgenero;Heterossexual;Branco;Pos-graduacao;Masculino
+128;;128;Patrimonial;Madrugada;;;;49;;;;;
+129;Discriminacao;129;Patrimonial;Tarde;Alameda Yago Lopes, 340;XX;Alexia Montenegro;91;Mulher Cisgenero;Bissexual;Indigena;Ensino Medio Incompleto;Feminino
+130;Violencia Domestica;130;Sexual;Noite;Rodovia Benicio Sá, 351;AC;Sara Lopes;166;Mulher Cisgenero;Heterossexual;Pardo;Ensino Superior Completo;Masculino
+131;Discriminacao;131;Patrimonial;Tarde;Lagoa de Cirino, 627;XX;Pietra Fernandes;32;Nao-Binario;Heterossexual;Pardo;Ensino Superior Completo;Masculino
+132;Assedio;132;Patrimonial;Tarde;Morro de Cavalcanti, 939;XX;Alexandre Correia;90;Nao-Binario;Pansexual;Indigena;Ensino Fundamental Completo;Feminino
+133;Assedio;133;Moral;Tarde;Travessa Cavalcanti, 671;XX;Dra. Caroline Gomes;99;Homem Cisgenero;Homossexual;Pardo;Ensino Medio Completo;Feminino
+134;Assedio;134;Sexual;Noite;Trecho de Fernandes, 618;RS;Luiz Otávio da Cunha;64;Homem Cisgenero;Bissexual;Negro;Ensino Fundamental Completo;Feminino
+135;Assedio;135;Sexual;Manha;Viela Gonçalves, 233;SC;Liz Andrade;nan;Homem Transgenero;Pansexual;Negro;Ensino Fundamental Incompleto;Feminino
+136;Agressao;136;Moral;Noite;Campo de Sousa, 819;XX;Ana Cecília Cunha;8;Mulher Cisgenero;Heterossexual;Negro;Ensino Medio Incompleto;Feminino
+137;Outros;137;Patrimonial;Madrugada;Trevo de Aparecida, 991;MT;Daniel Rios;94;Mulher Cisgenero;Homossexual;Amarelo;Ensino Fundamental Completo;Masculino
+138;Invalido;138;Patrimonial;Madrugada;Fazenda de Caldeira, 188;AM;Dr. Thiago Marques;106;Mulher Transgenero;Heterossexual;Negro;Pos-graduacao;Masculino
+139;;139;Psicologica;Madrugada;;;;97;;;;;
+140;;140;Sexual;Tarde;;;;32;;;;;
+141;Violencia Domestica;141;Moral;Madrugada;Distrito de Alves, 968;BA;Diogo Souza;82;Homem Transgenero;Homossexual;Amarelo;Ensino Superior Incompleto;Feminino
+142;Discriminacao;142;Moral;Tarde;Travessa da Rocha, 260;BA;Breno Martins;43;Mulher Transgenero;Bissexual;Negro;Ensino Superior Completo;Masculino
+143;Invalido;143;Patrimonial;Madrugada;Vila Brenda Moreira, 355;PR;Liz Alves;27;Homem Cisgenero;Homossexual;Pardo;Ensino Medio Incompleto;Feminino
+144;;144;Fisica;Noite;;;;32;;;;;
+145;Agressao;145;Sexual;Manha;Aeroporto Marcela Barbosa, 462;BA;Sra. Elisa Ferreira;164;Homem Transgenero;Heterossexual;Negro;Ensino Fundamental Completo;Feminino
+146;Outros;146;Sexual;Noite;Praça Arthur Gabriel Ramos, 870;XX;Olívia Martins;23;Nao-Binario;Assexual;Indigena;Ensino Medio Incompleto;Masculino
+147;Agressao;147;Patrimonial;Madrugada;Vale Camargo, 833;PA;Zoe da Rocha;nan;Homem Transgenero;Homossexual;Branco;Ensino Superior Incompleto;Masculino
+148;Invalido;148;Psicologica;Manha;Travessa Duarte, 44;RO;Benjamim Farias;29;Mulher Transgenero;Pansexual;Negro;Ensino Fundamental Completo;Masculino
+149;;149;Fisica;Manha;;;;27;;;;;
+150;Invalido;150;Fisica;Noite;Avenida Fogaça, 574;RR;Murilo Sá;31;Mulher Transgenero;Bissexual;Pardo;Ensino Superior Completo;Masculino
+151;Outros;151;Fisica;Tarde;Residencial Laura Araújo, 425;BA;Benicio da Cunha;138;Homem Cisgenero;Bissexual;Pardo;Pos-graduacao;Feminino
+152;Agressao;152;Fisica;Noite;Rua João Miguel Pinto, 355;MT;Vitor Hugo da Mata;157;Nao-Binario;Bissexual;Amarelo;Ensino Medio Incompleto;Masculino
+153;Violencia Domestica;153;Psicologica;Madrugada;Estação Campos, 531;DF;Aurora Silveira;nan;Mulher Cisgenero;Heterossexual;Pardo;Ensino Fundamental Incompleto;Feminino
+154;Invalido;154;Patrimonial;Tarde;Esplanada Larissa Rios, 2;SC;Maria Laura Silva;67;Homem Cisgenero;Homossexual;Pardo;Ensino Fundamental Completo;Feminino
+155;Invalido;155;Patrimonial;Madrugada;Recanto Sampaio, 838;SP;Theodoro Teixeira;41;Nao-Binario;Assexual;Indigena;Ensino Medio Completo;Feminino
+156;Invalido;156;Moral;Tarde;Vila Bianca Alves, 683;AC;Luara Cardoso;91;Homem Transgenero;Assexual;Amarelo;Ensino Fundamental Incompleto;Feminino
+157;Violencia Domestica;157;Patrimonial;Noite;Avenida de Camargo, 862;PI;Bento Guerra;186;Mulher Transgenero;Pansexual;Branco;Ensino Superior Completo;Feminino
+158;Violencia Domestica;158;Moral;Manha;Via Maria Helena Cunha, 477;XX;Joaquim Moura;100;Nao-Binario;Homossexual;Amarelo;Ensino Superior Completo;Masculino
+159;Outros;159;Moral;Tarde;Núcleo Lunna Rezende, 934;AM;Danilo Araújo;53;Nao-Binario;Heterossexual;Amarelo;Ensino Superior Incompleto;Masculino
+160;Discriminacao;160;Moral;Tarde;Viaduto Ana Lívia Cardoso, 604;XX;Lara Alves;90;Homem Cisgenero;Heterossexual;Negro;Ensino Superior Incompleto;Masculino
+161;;161;Fisica;Madrugada;;;;62;;;;;
+162;Agressao;162;Moral;Tarde;Vereda André Fonseca, 653;ES;Theodoro Cavalcanti;164;Mulher Cisgenero;Homossexual;Negro;Pos-graduacao;Feminino
+163;Discriminacao;163;Moral;Manha;Trevo de Albuquerque, 476;XX;Apollo Cassiano;13;Mulher Cisgenero;Bissexual;Amarelo;Pos-graduacao;Feminino
+164;Assedio;164;Psicologica;Tarde;Ladeira Hellena Aparecida, 759;MS;Dra. Manuella Vargas;24;Homem Transgenero;Pansexual;Pardo;Ensino Superior Completo;Feminino
+165;Agressao;165;Psicologica;Noite;Chácara Benício da Cunha, 21;PI;Hadassa da Rocha;nan;Homem Transgenero;Homossexual;Pardo;Ensino Medio Completo;Feminino
+166;;166;Fisica;Madrugada;;;;29;;;;;
+167;;167;Psicologica;Madrugada;;;;17;;;;;
+168;Assedio;168;Sexual;Madrugada;Parque da Rosa, 929;XX;Ana Cecília Ramos;33;Mulher Cisgenero;Heterossexual;Amarelo;Ensino Fundamental Completo;Masculino
+169;Invalido;169;Fisica;Tarde;Estrada Sousa, 747;SC;Rafaela Dias;64;Nao-Binario;Heterossexual;Amarelo;Ensino Superior Completo;Masculino
+170;Invalido;170;Sexual;Noite;Travessa de Moura, 592;AL;Marcos Vinicius Fernandes;17;Mulher Transgenero;Bissexual;Indigena;Pos-graduacao;Feminino
+171;Outros;171;Fisica;Manha;Alameda da Paz, 239;PE;João Vitor Rezende;140;Mulher Transgenero;Homossexual;Amarelo;Ensino Fundamental Completo;Feminino
+172;Outros;172;Moral;Manha;Condomínio de Macedo, 26;DF;Dr. Ian Almeida;39;Mulher Transgenero;Bissexual;Amarelo;Ensino Superior Incompleto;Masculino
+173;Invalido;173;Psicologica;Noite;Feira Hellena Dias, 76;SE;Bianca da Rosa;88;Homem Cisgenero;Heterossexual;Pardo;Ensino Superior Incompleto;Feminino
+174;Invalido;174;Sexual;Noite;Via Lavínia Moura, 567;RJ;Ana Liz Abreu;99;Mulher Cisgenero;Homossexual;Branco;Ensino Fundamental Completo;Masculino
+175;;175;Fisica;Manha;;;;68;;;;;
+176;Discriminacao;176;Psicologica;Manha;Favela Enrico Cavalcanti, 256;GO;Maitê Fonseca;nan;Mulher Transgenero;Bissexual;Indigena;Ensino Medio Incompleto;Feminino
+177;Assedio;177;Moral;Tarde;Setor Vasconcelos, 164;XX;Ana Lívia Araújo;106;Mulher Transgenero;Bissexual;Amarelo;Ensino Fundamental Incompleto;Masculino
+178;;178;Sexual;Tarde;;;;103;;;;;
+179;Outros;179;Fisica;Noite;Estação Campos, 613;BA;Maria Luiza Viana;64;Homem Transgenero;Homossexual;Indigena;Ensino Superior Incompleto;Feminino
+180;;180;Moral;Madrugada;;;;65;;;;;
+181;Invalido;181;Psicologica;Noite;Morro Vargas, 811;MT;Ana da Mota;0;Mulher Cisgenero;Bissexual;Negro;Ensino Medio Incompleto;Feminino
+182;;182;Fisica;Noite;;;;87;;;;;
+183;;183;Fisica;Tarde;;;;110;;;;;
+184;Assedio;184;Psicologica;Tarde;Chácara de da Paz, 798;DF;Luigi Vasconcelos;194;Homem Transgenero;Heterossexual;Amarelo;Ensino Fundamental Completo;Feminino
+185;Outros;185;Psicologica;Madrugada;Fazenda de Albuquerque, 309;PE;Ana Cecília da Luz;nan;Homem Transgenero;Heterossexual;Indigena;Ensino Medio Completo;Feminino
+186;Invalido;186;Fisica;Noite;Via de Freitas, 95;ES;Dr. Fernando Abreu;55;Nao-Binario;Assexual;Branco;Ensino Superior Completo;Masculino
+187;;187;Patrimonial;Manha;;;;81;;;;;
+188;Discriminacao;188;Sexual;Manha;Favela Maria Isis Silva, 227;DF;Ana Clara Souza;91;Homem Cisgenero;Heterossexual;Amarelo;Ensino Medio Incompleto;Masculino
+189;Violencia Domestica;189;Moral;Tarde;Loteamento Maria Júlia Cirino, 482;SE;Mariane Pires;nan;Nao-Binario;Heterossexual;Branco;Ensino Superior Completo;Feminino
+190;Invalido;190;Fisica;Madrugada;Sítio João Guilherme Montenegro, 2;ES;Cecília da Rosa;89;Mulher Transgenero;Homossexual;Branco;Ensino Fundamental Completo;Feminino
+191;Assedio;191;Patrimonial;Madrugada;Vila Marina da Costa, 719;RJ;Sophia Caldeira;47;Nao-Binario;Pansexual;Indigena;Ensino Superior Completo;Feminino
+192;Agressao;192;Patrimonial;Manha;Rua Lavínia Barros, 596;XX;Alexandre Cassiano;18;Mulher Transgenero;Pansexual;Amarelo;Ensino Superior Incompleto;Feminino
+193;Agressao;193;Fisica;Manha;Sítio João Felipe Câmara, 144;XX;Pietra Jesus;104;Mulher Transgenero;Assexual;Pardo;Ensino Superior Incompleto;Masculino
+194;;194;Sexual;Noite;;;;98;;;;;
+195;Violencia Domestica;195;Psicologica;Manha;Viaduto de Azevedo, 246;XX;Sra. Eloah Rodrigues;13;Mulher Cisgenero;Bissexual;Amarelo;Ensino Medio Incompleto;Feminino
+196;Discriminacao;196;Sexual;Manha;Trevo Luigi Sá, 632;MT;Gabriel Moreira;42;Mulher Cisgenero;Pansexual;Negro;Ensino Fundamental Incompleto;Feminino
+197;;197;Fisica;Madrugada;;;;42;;;;;
+198;;198;Psicologica;Noite;;;;84;;;;;
+199;Agressao;199;Fisica;Madrugada;Estação Lavínia Viana, 39;ES;Pietra da Mata;45;Nao-Binario;Assexual;Negro;Ensino Superior Completo;Feminino
+200;Assedio;200;Psicologica;Tarde;Distrito Daniel Almeida, 425;TO;Yasmin Albuquerque;nan;Nao-Binario;Heterossexual;Indigena;Ensino Medio Incompleto;Masculino
+201;Violencia Domestica;201;Patrimonial;Manha;Quadra Silveira, 725;SP;Maria Luiza Cunha;82;Mulher Cisgenero;Heterossexual;Amarelo;Ensino Fundamental Incompleto;Feminino
+202;Assedio;202;Moral;Madrugada;Sítio de Fernandes, 584;MA;Srta. Ana Luiza Rodrigues;nan;Homem Transgenero;Heterossexual;Indigena;Ensino Superior Completo;Feminino
+203;Agressao;203;Fisica;Noite;Alameda Montenegro, 590;SE;Francisco Melo;44;Homem Cisgenero;Pansexual;Branco;Ensino Fundamental Incompleto;Masculino
+204;Invalido;204;Psicologica;Noite;Pátio Casa Grande, 338;AL;Henry Gonçalves;58;Mulher Cisgenero;Bissexual;Indigena;Ensino Medio Incompleto;Masculino
+205;Assedio;205;Patrimonial;Madrugada;Chácara Lima, 204;XX;Manuela Câmara;89;Mulher Transgenero;Homossexual;Indigena;Pos-graduacao;Masculino
+206;Assedio;206;Moral;Tarde;Fazenda Kaique da Paz, 587;XX;Gustavo Freitas;56;Homem Cisgenero;Bissexual;Amarelo;Ensino Superior Incompleto;Feminino
+207;Invalido;207;Sexual;Noite;Jardim Sampaio, 201;MS;Srta. Ana Julia da Conceição;89;Nao-Binario;Homossexual;Pardo;Pos-graduacao;Masculino
+208;;208;Sexual;Noite;;;;15;;;;;
+209;;209;Sexual;Noite;;;;30;;;;;
+210;;210;Fisica;Madrugada;;;;55;;;;;
+211;Invalido;211;Moral;Noite;Aeroporto de Casa Grande, 195;PB;Otto Nascimento;7;Nao-Binario;Pansexual;Amarelo;Ensino Fundamental Incompleto;Masculino
+212;;212;Fisica;Madrugada;;;;110;;;;;
+213;;213;Patrimonial;Tarde;;;;106;;;;;
+214;Outros;214;Moral;Noite;Praça de Nunes, 179;AM;Isaque Rios;nan;Homem Transgenero;Homossexual;Pardo;Ensino Superior Completo;Feminino
+215;Outros;215;Fisica;Tarde;Esplanada Ravy Fernandes, 787;XX;Ana Clara Novais;46;Homem Cisgenero;Bissexual;Branco;Ensino Medio Incompleto;Masculino
+216;Invalido;216;Fisica;Madrugada;Estação Costa, 430;PE;Maria Vitória da Cunha;1;Nao-Binario;Homossexual;Branco;Ensino Fundamental Incompleto;Masculino
+217;;217;Psicologica;Madrugada;;;;18;;;;;
+218;Violencia Domestica;218;Fisica;Madrugada;Recanto Maria Vitória Sousa, 74;ES;Bella Costela;nan;Mulher Cisgenero;Bissexual;Pardo;Pos-graduacao;Masculino
+219;Agressao;219;Fisica;Noite;Campo João Felipe Abreu, 559;XX;Sra. Lunna Santos;49;Homem Transgenero;Homossexual;Amarelo;Ensino Superior Incompleto;Masculino
+220;;220;Patrimonial;Manha;;;;32;;;;;
+221;Discriminacao;221;Psicologica;Madrugada;Estação de Cavalcanti, 435;XX;Raul Sales;103;Mulher Transgenero;Assexual;Pardo;Ensino Fundamental Incompleto;Masculino
+222;Outros;222;Psicologica;Tarde;Rodovia Alexandre Peixoto, 326;RO;Ágatha Mendonça;4;Nao-Binario;Assexual;Negro;Ensino Medio Completo;Feminino
+223;Invalido;223;Moral;Noite;Largo da Conceição, 767;PA;Ester Aragão;4;Mulher Cisgenero;Bissexual;Branco;Ensino Superior Completo;Feminino
+224;Violencia Domestica;224;Psicologica;Manha;Viela Mateus Fogaça, 858;XX;Srta. Emilly Vieira;64;Mulher Transgenero;Assexual;Pardo;Pos-graduacao;Masculino
+225;Agressao;225;Patrimonial;Madrugada;Viaduto Montenegro, 894;MS;Aurora Oliveira;177;Nao-Binario;Assexual;Negro;Ensino Medio Completo;Feminino
+226;Outros;226;Fisica;Manha;Viela Mirella da Conceição, 214;PI;Lavínia da Cunha;138;Mulher Transgenero;Homossexual;Amarelo;Ensino Medio Incompleto;Masculino
+227;Violencia Domestica;227;Fisica;Noite;Loteamento Maria Luiza Silva, 318;PE;Felipe Pimenta;61;Mulher Transgenero;Assexual;Indigena;Ensino Superior Completo;Masculino
+228;Agressao;228;Psicologica;Noite;Alameda Oliveira, 749;AM;Matheus Melo;nan;Nao-Binario;Assexual;Pardo;Pos-graduacao;Masculino
+229;;229;Fisica;Tarde;;;;1;;;;;
+230;Violencia Domestica;230;Psicologica;Tarde;Passarela Ayla Pereira, 978;XX;Yasmin Costela;4;Homem Cisgenero;Heterossexual;Amarelo;Ensino Superior Incompleto;Feminino
+231;Invalido;231;Fisica;Noite;Distrito de Monteiro, 207;PI;José Viana;14;Mulher Cisgenero;Pansexual;Pardo;Ensino Medio Incompleto;Masculino
+232;Outros;232;Psicologica;Tarde;Largo de Ferreira, 319;AC;Liam Sousa;28;Mulher Transgenero;Assexual;Negro;Pos-graduacao;Feminino
+233;Invalido;233;Patrimonial;Noite;Favela Agatha Novaes, 611;AP;Raquel Borges;2;Nao-Binario;Homossexual;Negro;Ensino Medio Completo;Feminino
+234;Assedio;234;Sexual;Noite;Rodovia Eloá Camargo, 541;XX;Valentim Vasconcelos;64;Nao-Binario;Assexual;Negro;Ensino Medio Completo;Feminino
+235;Assedio;235;Moral;Madrugada;Condomínio Allana Rios, 177;XX;Guilherme Machado;20;Mulher Transgenero;Homossexual;Pardo;Ensino Superior Incompleto;Feminino
+236;Outros;236;Moral;Manha;Viela de da Costa, 822;ES;Evelyn Costa;nan;Homem Transgenero;Bissexual;Amarelo;Ensino Medio Incompleto;Feminino
+237;Invalido;237;Moral;Tarde;Passarela Catarina Garcia, 239;RR;Sra. Bruna Pereira;21;Homem Cisgenero;Pansexual;Pardo;Ensino Fundamental Incompleto;Feminino
+238;Invalido;238;Psicologica;Madrugada;Lagoa de Pastor, 789;TO;Eduarda Santos;2;Mulher Cisgenero;Bissexual;Branco;Ensino Medio Incompleto;Masculino
+239;Outros;239;Sexual;Tarde;Aeroporto Fogaça, 918;XX;Maria Fernanda Ramos;43;Mulher Transgenero;Pansexual;Negro;Ensino Fundamental Incompleto;Feminino
+240;Violencia Domestica;240;Patrimonial;Tarde;Travessa de Aparecida, 5;XX;Larissa Dias;8;Mulher Transgenero;Bissexual;Negro;Ensino Superior Incompleto;Feminino
+241;Invalido;241;Patrimonial;Manha;Quadra de Caldeira, 342;SE;Matteo Dias;84;Nao-Binario;Heterossexual;Amarelo;Ensino Fundamental Incompleto;Feminino
+242;Invalido;242;Fisica;Manha;Campo Campos, 879;SC;Dra. Evelyn Sousa;60;Mulher Cisgenero;Homossexual;Pardo;Ensino Superior Completo;Masculino
+243;Invalido;243;Sexual;Tarde;Avenida de Barbosa, 280;PA;Diego Ribeiro;31;Homem Cisgenero;Bissexual;Amarelo;Ensino Medio Incompleto;Masculino
+244;Assedio;244;Psicologica;Noite;Aeroporto Santos, 611;XX;Sabrina da Cruz;64;Mulher Cisgenero;Heterossexual;Amarelo;Ensino Medio Incompleto;Feminino
+245;Invalido;245;Sexual;Manha;Viela Isabel Sampaio, 205;AP;Ester Siqueira;82;Homem Cisgenero;Heterossexual;Branco;Ensino Fundamental Completo;Feminino
+246;Agressao;246;Psicologica;Noite;Trecho Felipe Fogaça, 465;PR;Emanuella Moura;109;Homem Cisgenero;Bissexual;Branco;Ensino Medio Incompleto;Masculino
+247;Outros;247;Moral;Manha;Fazenda Cardoso, 15;ES;Yan Cardoso;nan;Mulher Cisgenero;Homossexual;Pardo;Ensino Medio Completo;Masculino
+248;Violencia Domestica;248;Patrimonial;Manha;Via de das Neves, 697;XX;Maria Fernanda Cardoso;58;Homem Transgenero;Assexual;Negro;Pos-graduacao;Masculino
+249;Violencia Domestica;249;Moral;Manha;Residencial Leão, 430;RS;Luan Jesus;155;Nao-Binario;Homossexual;Pardo;Ensino Medio Completo;Feminino
+250;Invalido;250;Moral;Madrugada;Passarela de Peixoto, 345;RJ;Clara da Cunha;39;Homem Cisgenero;Bissexual;Branco;Ensino Superior Incompleto;Feminino
+251;Invalido;251;Moral;Noite;Jardim Benício Aparecida, 112;CE;Srta. Ana Júlia Vasconcelos;80;Mulher Cisgenero;Homossexual;Negro;Ensino Medio Completo;Masculino
+252;;252;Moral;Noite;;;;2;;;;;
+253;Agressao;253;Patrimonial;Manha;Passarela Cavalcante, 99;AP;Benicio Rodrigues;nan;Homem Transgenero;Heterossexual;Negro;Ensino Superior Incompleto;Masculino
+254;;254;Psicologica;Noite;;;;19;;;;;
+255;Outros;255;Moral;Noite;Recanto Vinicius Pereira, 808;AP;Miguel Leão;nan;Mulher Cisgenero;Assexual;Branco;Ensino Medio Completo;Masculino
+256;Invalido;256;Fisica;Madrugada;Recanto Nathan Barbosa, 997;AP;Bárbara da Mata;8;Homem Cisgenero;Heterossexual;Amarelo;Ensino Medio Completo;Masculino
+257;Discriminacao;257;Fisica;Tarde;Passarela Cassiano, 748;AL;Maitê Rezende;38;Mulher Cisgenero;Bissexual;Pardo;Ensino Fundamental Incompleto;Masculino
+258;;258;Fisica;Madrugada;;;;64;;;;;
+259;;259;Psicologica;Manha;;;;103;;;;;
+260;Agressao;260;Patrimonial;Tarde;Parque de Gonçalves, 564;RJ;Luigi Nascimento;76;Homem Cisgenero;Assexual;Pardo;Pos-graduacao;Masculino
+261;Assedio;261;Moral;Tarde;Praia de Moura, 610;MT;Clarice Rocha;197;Mulher Transgenero;Heterossexual;Negro;Ensino Medio Incompleto;Masculino
+262;Outros;262;Psicologica;Noite;Viela Monteiro, 298;MG;Bella Cavalcanti;161;Homem Transgenero;Heterossexual;Pardo;Pos-graduacao;Masculino
+263;;263;Moral;Madrugada;;;;16;;;;;
+264;;264;Fisica;Madrugada;;;;16;;;;;
+265;;265;Sexual;Madrugada;;;;84;;;;;
+266;Assedio;266;Sexual;Noite;Núcleo da Cunha, 454;XX;Julia Almeida;20;Mulher Cisgenero;Homossexual;Negro;Ensino Superior Incompleto;Masculino
+267;;267;Sexual;Tarde;;;;69;;;;;
+268;Invalido;268;Patrimonial;Manha;Viela Luiz Miguel Costela, 987;PE;Srta. Rafaela Aparecida;63;Homem Cisgenero;Pansexual;Indigena;Ensino Medio Incompleto;Masculino
+269;Violencia Domestica;269;Fisica;Tarde;Ladeira de Viana, 897;PA;Sr. Yago Pereira;175;Mulher Cisgenero;Assexual;Indigena;Ensino Fundamental Completo;Feminino
+270;Violencia Domestica;270;Fisica;Madrugada;Via de Garcia, 215;XX;Enrico Viana;50;Nao-Binario;Assexual;Indigena;Ensino Fundamental Incompleto;Masculino
+271;;271;Patrimonial;Manha;;;;85;;;;;
+272;;272;Sexual;Madrugada;;;;32;;;;;
+273;Agressao;273;Psicologica;Manha;Parque Sophia Rezende, 323;PB;Benicio Caldeira;180;Homem Cisgenero;Assexual;Branco;Ensino Medio Completo;Feminino
+274;;274;Fisica;Noite;;;;38;;;;;
+275;Invalido;275;Fisica;Tarde;Quadra de Souza, 439;BA;Caio Silveira;89;Mulher Transgenero;Heterossexual;Branco;Ensino Medio Completo;Masculino
+276;Invalido;276;Psicologica;Noite;Vila de Sales, 873;GO;Theodoro Aparecida;75;Homem Transgenero;Assexual;Pardo;Ensino Medio Incompleto;Masculino
+277;Outros;277;Moral;Noite;Viela Sampaio, 451;SE;Enzo Martins;88;Nao-Binario;Homossexual;Amarelo;Ensino Fundamental Completo;Feminino
+278;Agressao;278;Fisica;Tarde;Setor Rios, 414;SC;Luiz Otávio Santos;21;Mulher Cisgenero;Homossexual;Amarelo;Pos-graduacao;Masculino
+279;Invalido;279;Moral;Noite;Parque de Machado, 101;RJ;Srta. Bianca Novaes;10;Homem Cisgenero;Assexual;Indigena;Pos-graduacao;Masculino
+280;Outros;280;Moral;Manha;Trevo Alexandre Lopes, 455;XX;Isabela Novaes;57;Mulher Cisgenero;Homossexual;Negro;Ensino Superior Incompleto;Feminino
+281;Agressao;281;Psicologica;Manha;Largo Mariah Borges, 815;DF;Aylla Aparecida;156;Homem Cisgenero;Assexual;Branco;Ensino Superior Completo;Masculino
+282;Discriminacao;282;Patrimonial;Madrugada;Chácara Vasconcelos, 46;XX;Otto Silveira;51;Homem Transgenero;Bissexual;Amarelo;Ensino Fundamental Completo;Masculino
+283;Invalido;283;Moral;Noite;Pátio de Câmara, 585;TO;Igor Azevedo;43;Mulher Cisgenero;Pansexual;Negro;Pos-graduacao;Feminino
+284;;284;Fisica;Manha;;;;80;;;;;
+285;Violencia Domestica;285;Fisica;Tarde;Esplanada de Costa, 728;PI;Dr. Heitor Gomes;nan;Mulher Transgenero;Pansexual;Amarelo;Ensino Superior Completo;Feminino
+286;Assedio;286;Psicologica;Tarde;Condomínio de Oliveira, 900;XX;Nicolas da Mota;2;Mulher Cisgenero;Assexual;Amarelo;Ensino Superior Completo;Masculino
+287;Invalido;287;Patrimonial;Madrugada;Estrada Machado, 268;SE;Vitor Gabriel da Paz;90;Nao-Binario;Assexual;Indigena;Ensino Fundamental Completo;Masculino
+288;Discriminacao;288;Moral;Noite;Vereda Dante da Cruz, 610;GO;Sr. Thales Sales;185;Nao-Binario;Pansexual;Pardo;Ensino Superior Incompleto;Masculino
+289;Invalido;289;Patrimonial;Tarde;Morro Sophie Dias, 179;SE;Ana Clara Vieira;80;Homem Transgenero;Assexual;Indigena;Ensino Superior Incompleto;Feminino
+290;Outros;290;Sexual;Madrugada;Chácara Hellena Câmara, 112;XX;Letícia Mendes;28;Nao-Binario;Heterossexual;Indigena;Ensino Superior Completo;Masculino
+291;Violencia Domestica;291;Sexual;Noite;Rua Freitas, 88;RJ;Josué da Costa;nan;Nao-Binario;Homossexual;Negro;Ensino Superior Incompleto;Masculino
+292;Violencia Domestica;292;Sexual;Madrugada;Vila de Nascimento, 269;AM;Vitor da Cruz;nan;Nao-Binario;Heterossexual;Pardo;Ensino Superior Completo;Masculino
+293;Agressao;293;Moral;Noite;Avenida Kevin Duarte, 101;XX;Zoe Costela;93;Mulher Transgenero;Homossexual;Negro;Ensino Fundamental Incompleto;Masculino
+294;Outros;294;Patrimonial;Noite;Alameda de da Cunha, 443;XX;Leonardo Novais;110;Homem Cisgenero;Homossexual;Pardo;Ensino Fundamental Completo;Feminino
+295;Assedio;295;Fisica;Tarde;Rodovia Monteiro, 774;SC;Enrico Novaes;99;Homem Transgenero;Heterossexual;Pardo;Pos-graduacao;Feminino
+296;Invalido;296;Patrimonial;Noite;Recanto de Albuquerque, 549;PE;Luna Correia;109;Homem Transgenero;Homossexual;Branco;Ensino Medio Incompleto;Feminino
+297;Invalido;297;Sexual;Tarde;Aeroporto de Pastor, 245;ES;Maria Eduarda das Neves;9;Mulher Transgenero;Assexual;Branco;Ensino Medio Incompleto;Masculino
+298;Agressao;298;Patrimonial;Manha;Viaduto André Moura, 657;XX;Dr. Davi Miguel Vieira;17;Mulher Cisgenero;Pansexual;Pardo;Ensino Superior Completo;Feminino
+299;;299;Psicologica;Noite;;;;93;;;;;
+300;Outros;300;Patrimonial;Madrugada;Recanto Arthur Gabriel Sampaio, 900;BA;Murilo Pires;nan;Homem Transgenero;Assexual;Indigena;Ensino Superior Completo;Feminino
+301;Invalido;301;Fisica;Madrugada;Quadra José Ribeiro, 995;MA;Vicente Melo;27;Mulher Transgenero;Heterossexual;Indigena;Ensino Superior Completo;Masculino
+302;Violencia Domestica;302;Sexual;Madrugada;Praça de Barros, 870;XX;Maya Leão;28;Mulher Transgenero;Pansexual;Pardo;Ensino Fundamental Completo;Masculino
+303;Outros;303;Moral;Madrugada;Jardim Maria Sophia da Conceição, 965;TO;Alexandre Garcia;nan;Nao-Binario;Pansexual;Negro;Ensino Medio Completo;Feminino
+304;Outros;304;Moral;Manha;Praça de da Mota, 995;XX;Davi Lucas Abreu;34;Homem Cisgenero;Heterossexual;Pardo;Pos-graduacao;Masculino
+305;Outros;305;Fisica;Noite;Sítio Cassiano, 566;PI;Diogo Jesus;121;Mulher Cisgenero;Pansexual;Indigena;Pos-graduacao;Masculino
+306;Agressao;306;Patrimonial;Manha;Vereda Cirino, 209;MT;Dr. Henry Costela;nan;Nao-Binario;Homossexual;Pardo;Ensino Fundamental Incompleto;Feminino
+307;Discriminacao;307;Sexual;Noite;Residencial de Borges, 706;MA;Srta. Juliana Mendes;62;Homem Cisgenero;Pansexual;Pardo;Ensino Superior Incompleto;Feminino
+308;Agressao;308;Moral;Tarde;Ladeira de Ferreira, 638;MG;Evelyn Fogaça;nan;Homem Transgenero;Pansexual;Negro;Pos-graduacao;Feminino
+309;Assedio;309;Fisica;Manha;Praia Theodoro da Paz, 952;RS;Maria Júlia Fernandes;132;Homem Transgenero;Assexual;Amarelo;Ensino Superior Completo;Masculino
+310;Invalido;310;Moral;Noite;Distrito Vasconcelos, 27;RR;Manuella Machado;32;Mulher Cisgenero;Bissexual;Pardo;Ensino Fundamental Completo;Masculino
+311;;311;Psicologica;Noite;;;;107;;;;;
+312;;312;Sexual;Tarde;;;;109;;;;;
+313;Agressao;313;Fisica;Madrugada;Rua Lorena da Paz, 844;BA;Dr. Yuri da Cruz;10;Homem Transgenero;Pansexual;Amarelo;Ensino Medio Completo;Masculino
+314;Discriminacao;314;Moral;Tarde;Praça Levi Andrade, 474;MT;Sra. Brenda Rios;186;Homem Cisgenero;Homossexual;Branco;Ensino Superior Incompleto;Masculino
+315;Invalido;315;Patrimonial;Madrugada;Fazenda Andrade, 71;AC;Maria Flor Cavalcante;37;Homem Cisgenero;Homossexual;Amarelo;Ensino Medio Completo;Feminino
+316;Outros;316;Moral;Manha;Jardim Antony Moraes, 499;MA;Laís Guerra;192;Homem Cisgenero;Heterossexual;Branco;Ensino Medio Completo;Masculino
+317;Assedio;317;Fisica;Manha;Esplanada Garcia, 986;CE;Benjamim Siqueira;nan;Mulher Transgenero;Homossexual;Amarelo;Ensino Superior Incompleto;Masculino
+318;Violencia Domestica;318;Fisica;Manha;Quadra Valentina Sousa, 245;PB;Luigi da Cruz;nan;Homem Transgenero;Pansexual;Branco;Ensino Medio Incompleto;Masculino
+319;Agressao;319;Psicologica;Madrugada;Loteamento Emanuella da Paz, 181;PA;Isadora Campos;51;Homem Transgenero;Heterossexual;Indigena;Ensino Medio Completo;Masculino
+320;;320;Moral;Noite;;;;109;;;;;
+321;Discriminacao;321;Sexual;Noite;Área de Martins, 943;XX;Dom Barbosa;50;Homem Cisgenero;Pansexual;Amarelo;Ensino Medio Completo;Feminino
+322;;322;Sexual;Madrugada;;;;41;;;;;
+323;Assedio;323;Patrimonial;Tarde;Rua Cauã Freitas, 903;SE;Alana Cardoso;200;Nao-Binario;Assexual;Indigena;Ensino Fundamental Completo;Masculino
+324;Assedio;324;Fisica;Tarde;Viaduto Fernandes, 779;AL;Noah Cunha;17;Homem Cisgenero;Heterossexual;Pardo;Ensino Medio Incompleto;Masculino
+325;Invalido;325;Patrimonial;Noite;Lagoa Isaque Nunes, 310;SP;Lavínia Porto;108;Homem Cisgenero;Pansexual;Negro;Pos-graduacao;Feminino
+326;Assedio;326;Sexual;Manha;Feira de Gomes, 384;XX;Ravi Lucca Silveira;67;Nao-Binario;Bissexual;Pardo;Ensino Superior Completo;Masculino
+327;Assedio;327;Moral;Tarde;Travessa de Borges, 762;RJ;Maria Luísa Oliveira;29;Mulher Cisgenero;Assexual;Negro;Ensino Fundamental Incompleto;Feminino
+328;;328;Patrimonial;Manha;;;;88;;;;;
+329;Agressao;329;Moral;Noite;Parque Aragão, 628;XX;Rebeca Moreira;3;Mulher Transgenero;Assexual;Branco;Pos-graduacao;Masculino
+330;;330;Fisica;Madrugada;;;;56;;;;;
+331;Invalido;331;Psicologica;Tarde;Rodovia de Rezende, 799;MG;Dr. Leandro Rezende;77;Mulher Cisgenero;Bissexual;Indigena;Ensino Medio Completo;Feminino
+332;;332;Fisica;Noite;;;;37;;;;;
+333;Outros;333;Psicologica;Madrugada;Vereda Camila Barbosa, 923;XX;Kevin Souza;81;Homem Transgenero;Heterossexual;Indigena;Ensino Superior Completo;Masculino
+334;Outros;334;Fisica;Tarde;Vale Caldeira, 230;XX;Vinícius Fernandes;59;Nao-Binario;Homossexual;Branco;Ensino Superior Completo;Feminino
+335;;335;Moral;Manha;;;;20;;;;;
+336;Invalido;336;Sexual;Manha;Viaduto da Cruz, 49;RJ;Srta. Isadora Sampaio;109;Mulher Transgenero;Homossexual;Amarelo;Ensino Medio Completo;Masculino
+337;Agressao;337;Fisica;Noite;Lago da Conceição, 350;ES;Aylla Vasconcelos;39;Homem Transgenero;Homossexual;Pardo;Ensino Medio Completo;Feminino
+338;Discriminacao;338;Patrimonial;Manha;Esplanada Câmara, 373;XX;João Vitor Sampaio;43;Mulher Transgenero;Assexual;Amarelo;Ensino Medio Incompleto;Masculino
+339;Violencia Domestica;339;Psicologica;Noite;Rodovia de da Luz, 368;RS;Dr. Davi Lucas Nascimento;13;Homem Cisgenero;Assexual;Indigena;Ensino Superior Incompleto;Feminino
+340;Discriminacao;340;Moral;Manha;Trevo de Alves, 427;RJ;Davi Luiz Costa;2;Mulher Transgenero;Heterossexual;Amarelo;Ensino Medio Incompleto;Masculino
+341;;341;Sexual;Noite;;;;71;;;;;
+342;Assedio;342;Fisica;Tarde;Esplanada de Siqueira, 368;XX;Yago Moraes;105;Homem Transgenero;Homossexual;Branco;Ensino Fundamental Completo;Masculino
+343;Invalido;343;Sexual;Madrugada;Distrito Heloísa Duarte, 703;RO;Lorena Costa;2;Mulher Cisgenero;Pansexual;Negro;Ensino Fundamental Incompleto;Masculino
+344;Outros;344;Patrimonial;Madrugada;Estrada Lucas Silva, 573;PB;Maitê da Costa;182;Mulher Cisgenero;Bissexual;Indigena;Pos-graduacao;Masculino
+345;;345;Sexual;Tarde;;;;106;;;;;
+346;Agressao;346;Fisica;Tarde;Loteamento Eloah da Mota, 3;MG;Isabelly Correia;9;Homem Cisgenero;Bissexual;Amarelo;Ensino Superior Completo;Masculino
+347;;347;Moral;Madrugada;;;;98;;;;;
+348;;348;Moral;Madrugada;;;;72;;;;;
+349;Assedio;349;Psicologica;Noite;Trevo Luan Guerra, 406;ES;Isabela Lima;nan;Homem Transgenero;Homossexual;Branco;Ensino Fundamental Incompleto;Feminino
+350;Discriminacao;350;Fisica;Madrugada;Recanto Marcelo da Paz, 303;XX;Luiz Gustavo Machado;8;Homem Transgenero;Bissexual;Branco;Ensino Fundamental Completo;Masculino
+351;Invalido;351;Fisica;Manha;Área Levi Sales, 697;MT;Vicente Ramos;105;Mulher Cisgenero;Assexual;Negro;Ensino Fundamental Completo;Masculino
+352;Outros;352;Psicologica;Noite;Passarela Maria Isis Ferreira, 449;PB;Lunna Moura;152;Homem Cisgenero;Pansexual;Pardo;Ensino Superior Incompleto;Feminino
+353;Assedio;353;Patrimonial;Madrugada;Campo Mirella Melo, 497;AM;Vicente Camargo;56;Mulher Transgenero;Bissexual;Branco;Ensino Fundamental Completo;Feminino
+354;Outros;354;Moral;Tarde;Favela Bianca Ramos, 128;MG;Esther da Luz;184;Homem Transgenero;Assexual;Pardo;Ensino Fundamental Completo;Masculino
+355;Discriminacao;355;Sexual;Tarde;Chácara Dias, 663;MG;Raquel Pastor;nan;Homem Cisgenero;Heterossexual;Amarelo;Ensino Superior Incompleto;Masculino
+356;Agressao;356;Moral;Tarde;Via Duarte, 937;MS;Sra. Isabela Silveira;nan;Mulher Cisgenero;Bissexual;Indigena;Ensino Superior Completo;Masculino
+357;Agressao;357;Sexual;Noite;Praia Bruna Nogueira, 750;XX;Helena Castro;24;Nao-Binario;Heterossexual;Branco;Ensino Fundamental Incompleto;Masculino
+358;Discriminacao;358;Fisica;Tarde;Sítio Manuela Oliveira, 179;SC;Eloá da Paz;nan;Nao-Binario;Assexual;Negro;Ensino Fundamental Incompleto;Masculino
+359;Assedio;359;Moral;Manha;Praia Vitor Viana, 78;MT;Dra. Alexia Sales;84;Homem Cisgenero;Heterossexual;Negro;Pos-graduacao;Feminino
+360;Invalido;360;Patrimonial;Noite;Viaduto de Vargas, 740;ES;Larissa Lopes;104;Mulher Transgenero;Pansexual;Amarelo;Ensino Medio Incompleto;Masculino
+361;Outros;361;Sexual;Madrugada;Distrito Aragão, 600;XX;Lucas Albuquerque;22;Homem Cisgenero;Homossexual;Indigena;Ensino Medio Completo;Feminino
+362;;362;Moral;Manha;;;;106;;;;;
+363;Discriminacao;363;Moral;Manha;Lagoa Agatha Mendonça, 556;MG;Ayla Gomes;151;Mulher Cisgenero;Pansexual;Pardo;Pos-graduacao;Masculino
+364;Invalido;364;Psicologica;Manha;Pátio Camargo, 892;DF;Dr. José Pedro Machado;6;Mulher Transgenero;Homossexual;Pardo;Ensino Fundamental Completo;Masculino
+365;Invalido;365;Fisica;Tarde;Passarela Nogueira, 306;ES;Anna Liz Macedo;96;Mulher Transgenero;Homossexual;Amarelo;Ensino Fundamental Incompleto;Masculino
+366;Discriminacao;366;Psicologica;Tarde;Colônia de Fernandes, 229;AC;Cauã Barbosa;142;Mulher Transgenero;Assexual;Amarelo;Ensino Medio Incompleto;Masculino
+367;Discriminacao;367;Sexual;Tarde;Praia Heloisa Oliveira, 211;BA;Maria Julia das Neves;79;Mulher Cisgenero;Heterossexual;Indigena;Ensino Fundamental Incompleto;Masculino
+368;Outros;368;Psicologica;Noite;Viela de das Neves, 570;PI;Sr. Paulo Campos;107;Mulher Transgenero;Assexual;Amarelo;Ensino Medio Incompleto;Masculino
+369;Discriminacao;369;Psicologica;Tarde;Pátio Guerra, 301;XX;Sra. Rebeca Oliveira;48;Homem Cisgenero;Heterossexual;Negro;Pos-graduacao;Feminino
+370;Discriminacao;370;Fisica;Tarde;Quadra Pimenta, 729;SC;Erick Marques;nan;Mulher Cisgenero;Bissexual;Branco;Ensino Fundamental Incompleto;Masculino
+371;;371;Psicologica;Manha;;;;68;;;;;
+372;Assedio;372;Sexual;Noite;Lagoa Cardoso, 590;TO;Pedro Lucas Moura;24;Mulher Transgenero;Heterossexual;Amarelo;Ensino Medio Completo;Feminino
+373;Outros;373;Moral;Madrugada;Viela de Vasconcelos, 283;PE;Ana Vitória Martins;151;Homem Cisgenero;Pansexual;Negro;Ensino Fundamental Completo;Feminino
+374;Outros;374;Psicologica;Tarde;Pátio de Montenegro, 463;PR;Olivia Farias;37;Homem Transgenero;Pansexual;Indigena;Ensino Fundamental Incompleto;Feminino
+375;Invalido;375;Patrimonial;Tarde;Condomínio Ferreira, 936;RS;Hadassa Vasconcelos;16;Homem Cisgenero;Pansexual;Indigena;Ensino Superior Completo;Masculino
+376;Discriminacao;376;Sexual;Manha;Quadra Barbosa, 544;XX;Anthony Garcia;81;Homem Transgenero;Homossexual;Indigena;Pos-graduacao;Masculino
+377;Invalido;377;Sexual;Noite;Chácara Rios, 772;GO;Ravy Marques;102;Mulher Cisgenero;Heterossexual;Indigena;Ensino Superior Incompleto;Feminino
+378;Agressao;378;Fisica;Tarde;Feira Campos, 499;MG;Felipe Costa;nan;Nao-Binario;Heterossexual;Indigena;Ensino Medio Incompleto;Feminino
+379;Assedio;379;Psicologica;Tarde;Quadra de Cunha, 800;DF;Asafe da Costa;nan;Mulher Transgenero;Pansexual;Indigena;Ensino Fundamental Incompleto;Feminino
+380;Assedio;380;Fisica;Tarde;Ladeira Abreu, 463;AM;João Câmara;57;Mulher Cisgenero;Homossexual;Amarelo;Ensino Medio Incompleto;Masculino
+381;Violencia Domestica;381;Psicologica;Manha;Ladeira da Rosa, 493;XX;Gustavo Henrique Teixeira;27;Homem Cisgenero;Homossexual;Branco;Ensino Fundamental Completo;Feminino
+382;;382;Patrimonial;Madrugada;;;;3;;;;;
+383;Violencia Domestica;383;Psicologica;Tarde;Fazenda de Marques, 466;XX;Ian Rezende;14;Homem Cisgenero;Bissexual;Negro;Pos-graduacao;Feminino
+384;;384;Patrimonial;Madrugada;;;;41;;;;;
+385;Invalido;385;Patrimonial;Madrugada;Estação de Pimenta, 644;AM;Maria Luiza Lima;24;Homem Transgenero;Heterossexual;Indigena;Pos-graduacao;Masculino
+386;Invalido;386;Patrimonial;Manha;Praia Monteiro, 589;SP;Enzo Gabriel Alves;26;Mulher Cisgenero;Homossexual;Indigena;Ensino Fundamental Completo;Masculino
+387;Invalido;387;Moral;Noite;Feira Vasconcelos, 867;SP;Alexia Costela;86;Homem Transgenero;Bissexual;Branco;Ensino Fundamental Incompleto;Masculino
+388;Invalido;388;Psicologica;Manha;Largo de Moura, 10;PA;Dr. Lucas Gabriel da Cunha;3;Homem Cisgenero;Pansexual;Branco;Ensino Medio Completo;Feminino
+389;Invalido;389;Psicologica;Noite;Passarela Nunes, 586;SC;Kaique Castro;52;Mulher Transgenero;Assexual;Amarelo;Pos-graduacao;Feminino
+390;;390;Patrimonial;Manha;;;;48;;;;;
+391;Outros;391;Psicologica;Tarde;Viaduto Lara Cavalcanti, 221;XX;Rhavi Araújo;32;Mulher Transgenero;Assexual;Branco;Ensino Medio Incompleto;Feminino
+392;Outros;392;Patrimonial;Noite;Condomínio Brenda Araújo, 701;SC;Apollo Vieira;nan;Mulher Transgenero;Pansexual;Amarelo;Ensino Medio Completo;Masculino
+393;;393;Psicologica;Manha;;;;23;;;;;
+394;Outros;394;Psicologica;Madrugada;Avenida Silva, 558;XX;Cauã da Cruz;88;Homem Transgenero;Homossexual;Indigena;Ensino Superior Incompleto;Masculino
+395;Assedio;395;Patrimonial;Noite;Fazenda de Rocha, 236;XX;Sarah Mendonça;37;Mulher Transgenero;Heterossexual;Negro;Ensino Medio Incompleto;Feminino
+396;Outros;396;Patrimonial;Tarde;Favela Ribeiro, 571;AM;Francisco Carvalho;8;Homem Transgenero;Assexual;Pardo;Pos-graduacao;Masculino
+397;Discriminacao;397;Moral;Madrugada;Lagoa Jesus, 463;RR;Noah da Conceição;67;Nao-Binario;Pansexual;Indigena;Pos-graduacao;Masculino
+398;Violencia Domestica;398;Moral;Noite;Setor Marcela Siqueira, 636;BA;Maria Luiza Caldeira;93;Mulher Transgenero;Bissexual;Pardo;Ensino Fundamental Incompleto;Masculino
+399;Discriminacao;399;Moral;Tarde;Campo Vargas, 597;XX;José Pedro da Mota;21;Nao-Binario;Homossexual;Indigena;Ensino Superior Completo;Feminino
+400;Agressao;400;Fisica;Madrugada;Esplanada Mariah Pereira, 146;XX;Heloísa Mendes;107;Mulher Cisgenero;Homossexual;Indigena;Pos-graduacao;Feminino
+401;Agressao;401;Fisica;Madrugada;Alameda Milena da Cunha, 590;XX;Theodoro Mendonça;88;Homem Transgenero;Heterossexual;Branco;Ensino Superior Incompleto;Masculino
+402;Invalido;402;Psicologica;Manha;Área Cardoso, 898;AC;Anna Liz Vieira;100;Homem Cisgenero;Heterossexual;Amarelo;Pos-graduacao;Feminino
+403;Discriminacao;403;Moral;Madrugada;Avenida Moura, 10;BA;Breno Guerra;151;Mulher Cisgenero;Assexual;Pardo;Ensino Superior Completo;Feminino
+404;Discriminacao;404;Fisica;Tarde;Alameda de Freitas, 100;XX;Sophie Guerra;49;Mulher Transgenero;Heterossexual;Branco;Ensino Fundamental Incompleto;Masculino
+405;Outros;405;Moral;Manha;Setor Lima, 248;XX;Yan da Rosa;37;Mulher Transgenero;Pansexual;Indigena;Ensino Superior Incompleto;Masculino
+406;Invalido;406;Psicologica;Noite;Residencial Gael Pacheco, 81;MA;Sra. Amanda Marques;109;Mulher Cisgenero;Heterossexual;Negro;Ensino Superior Completo;Feminino
+407;Agressao;407;Fisica;Manha;Avenida Ana Pacheco, 635;ES;Dra. Gabriela Cavalcante;44;Mulher Cisgenero;Assexual;Pardo;Ensino Superior Completo;Feminino
+408;Agressao;408;Psicologica;Manha;Quadra de Peixoto, 476;XX;Isis Vargas;42;Mulher Cisgenero;Bissexual;Amarelo;Ensino Superior Incompleto;Feminino
+409;Invalido;409;Fisica;Madrugada;Ladeira de Fernandes, 987;PI;Vinicius Silva;69;Mulher Cisgenero;Pansexual;Indigena;Pos-graduacao;Feminino
+410;Agressao;410;Sexual;Manha;Recanto Enrico Aragão, 548;XX;Gabriel Melo;100;Mulher Transgenero;Pansexual;Amarelo;Ensino Fundamental Incompleto;Feminino
+411;;411;Patrimonial;Manha;;;;5;;;;;
+412;Invalido;412;Patrimonial;Noite;Vereda Costa, 389;SE;Kevin Dias;12;Nao-Binario;Bissexual;Branco;Ensino Medio Incompleto;Feminino
+413;Invalido;413;Fisica;Manha;Alameda Jesus, 33;MS;Davi Miguel Guerra;59;Homem Transgenero;Pansexual;Negro;Ensino Medio Incompleto;Feminino
+414;Invalido;414;Moral;Madrugada;Lagoa de Machado, 222;MG;Sara Pimenta;36;Mulher Transgenero;Heterossexual;Amarelo;Ensino Fundamental Completo;Masculino
+415;;415;Moral;Tarde;;;;17;;;;;
+416;Outros;416;Patrimonial;Manha;Esplanada de Rocha, 684;XX;Joana Machado;53;Mulher Transgenero;Assexual;Indigena;Ensino Superior Completo;Feminino
+417;Invalido;417;Sexual;Tarde;Avenida Cauã Rodrigues, 766;RR;Enzo Vasconcelos;19;Mulher Cisgenero;Heterossexual;Branco;Ensino Fundamental Incompleto;Masculino
+418;;418;Psicologica;Tarde;;;;105;;;;;
+419;;419;Moral;Madrugada;;;;82;;;;;
+420;;420;Patrimonial;Manha;;;;9;;;;;
+421;Invalido;421;Psicologica;Manha;Viaduto de Andrade, 991;PA;Eloah Pereira;42;Homem Cisgenero;Bissexual;Negro;Ensino Medio Incompleto;Masculino
+422;Invalido;422;Moral;Manha;Residencial Freitas, 908;PR;Dr. João Lucas Gonçalves;33;Homem Cisgenero;Bissexual;Indigena;Ensino Medio Incompleto;Masculino
+423;Assedio;423;Sexual;Manha;Vila Peixoto, 540;ES;Sr. Bruno Peixoto;181;Mulher Cisgenero;Heterossexual;Pardo;Ensino Superior Incompleto;Feminino
+424;Outros;424;Sexual;Tarde;Ladeira de Cardoso, 213;TO;Pedro Henrique Lopes;nan;Mulher Transgenero;Homossexual;Branco;Ensino Fundamental Incompleto;Masculino
+425;;425;Fisica;Noite;;;;2;;;;;
+426;;426;Fisica;Madrugada;;;;83;;;;;
+427;Outros;427;Fisica;Madrugada;Praça de Oliveira, 52;XX;Lorenzo Rodrigues;88;Nao-Binario;Assexual;Amarelo;Ensino Medio Completo;Masculino
+428;Invalido;428;Patrimonial;Tarde;Vereda André Gonçalves, 483;TO;Dr. Thomas Novaes;56;Homem Transgenero;Heterossexual;Branco;Ensino Superior Completo;Feminino
+429;Assedio;429;Psicologica;Noite;Vale Liz Gonçalves, 465;MG;Anna Liz Abreu;31;Mulher Transgenero;Bissexual;Amarelo;Ensino Medio Completo;Masculino
+430;Assedio;430;Psicologica;Madrugada;Residencial de da Costa, 27;XX;Evelyn da Mota;12;Homem Transgenero;Assexual;Negro;Ensino Superior Completo;Masculino
+431;Discriminacao;431;Patrimonial;Tarde;Chácara de Pires, 626;XX;Vitor Cardoso;50;Mulher Cisgenero;Heterossexual;Negro;Ensino Medio Incompleto;Feminino
+432;Discriminacao;432;Psicologica;Tarde;Vereda de Rezende, 502;XX;Vitor Gabriel Dias;103;Mulher Cisgenero;Pansexual;Amarelo;Ensino Fundamental Incompleto;Feminino
+433;Agressao;433;Moral;Manha;Morro de Camargo, 728;XX;Maria Laura Correia;86;Homem Transgenero;Pansexual;Negro;Ensino Fundamental Incompleto;Feminino
+434;;434;Psicologica;Madrugada;;;;44;;;;;
+435;Violencia Domestica;435;Psicologica;Madrugada;Conjunto Pedro Lucas Silva, 694;AL;João Felipe Brito;27;Homem Transgenero;Pansexual;Negro;Ensino Superior Completo;Masculino
+436;Agressao;436;Fisica;Noite;Lagoa de Novaes, 72;XX;Ana Carolina Carvalho;24;Nao-Binario;Assexual;Negro;Ensino Medio Incompleto;Masculino
+437;Outros;437;Moral;Madrugada;Estrada de da Rosa, 815;SE;Henrique Fogaça;nan;Mulher Transgenero;Bissexual;Indigena;Ensino Medio Incompleto;Feminino
+438;Outros;438;Fisica;Madrugada;Vila de Carvalho, 42;MS;Vitória Azevedo;180;Mulher Cisgenero;Assexual;Branco;Ensino Superior Completo;Masculino
+439;Agressao;439;Fisica;Madrugada;Trecho de Correia, 617;XX;Bárbara Mendes;44;Homem Cisgenero;Homossexual;Negro;Ensino Medio Incompleto;Masculino
+440;Invalido;440;Moral;Tarde;Viaduto da Luz, 476;RR;Anna Liz Souza;92;Mulher Cisgenero;Bissexual;Pardo;Ensino Medio Incompleto;Feminino
+441;Invalido;441;Sexual;Madrugada;Esplanada Siqueira, 929;MT;Dra. Sabrina Sampaio;76;Nao-Binario;Assexual;Negro;Ensino Fundamental Incompleto;Masculino
+442;Violencia Domestica;442;Moral;Madrugada;Sítio de Nascimento, 357;XX;Matheus Barros;11;Homem Transgenero;Homossexual;Branco;Ensino Medio Incompleto;Masculino
+443;Assedio;443;Fisica;Tarde;Distrito Caroline da Luz, 897;XX;Enzo Siqueira;86;Homem Cisgenero;Homossexual;Branco;Ensino Superior Incompleto;Masculino
+444;Invalido;444;Fisica;Manha;Passarela José Miguel Casa Grande, 494;PR;Mariane Borges;18;Nao-Binario;Bissexual;Pardo;Pos-graduacao;Masculino
+445;Invalido;445;Sexual;Manha;Travessa Alana Guerra, 687;PI;Yuri Siqueira;110;Nao-Binario;Pansexual;Indigena;Ensino Superior Completo;Masculino
+446;Agressao;446;Psicologica;Madrugada;Alameda de Carvalho, 192;XX;Mirella Fogaça;50;Mulher Cisgenero;Pansexual;Indigena;Ensino Superior Completo;Feminino
+447;;447;Fisica;Manha;;;;85;;;;;
+448;Invalido;448;Fisica;Noite;Conjunto de Lopes, 923;RN;Manuela Caldeira;66;Mulher Transgenero;Bissexual;Amarelo;Ensino Fundamental Incompleto;Masculino
+449;Assedio;449;Fisica;Noite;Conjunto Nicolas Rodrigues, 608;SE;Marcos Vinicius Pimenta;186;Mulher Transgenero;Homossexual;Pardo;Pos-graduacao;Masculino
+450;Assedio;450;Fisica;Madrugada;Pátio Farias, 542;PI;Ravi Lucca Fonseca;66;Homem Transgenero;Assexual;Amarelo;Pos-graduacao;Masculino
+451;Invalido;451;Fisica;Manha;Aeroporto da Rocha, 606;ES;Gael Henrique Alves;1;Homem Cisgenero;Heterossexual;Amarelo;Ensino Medio Incompleto;Masculino
+452;Agressao;452;Moral;Tarde;Travessa de Guerra, 374;RO;Anna Liz da Paz;nan;Mulher Transgenero;Homossexual;Branco;Ensino Superior Completo;Masculino
+453;Outros;453;Sexual;Noite;Largo Hadassa Novais, 300;XX;Bento Costa;97;Homem Cisgenero;Assexual;Amarelo;Ensino Superior Incompleto;Masculino
+454;Outros;454;Patrimonial;Noite;Conjunto Mendonça, 874;RS;Jade Martins;nan;Homem Cisgenero;Pansexual;Branco;Ensino Superior Incompleto;Masculino
+455;Outros;455;Fisica;Noite;Residencial Castro, 967;BA;Luiz Gustavo Vargas;199;Mulher Transgenero;Bissexual;Branco;Ensino Superior Incompleto;Feminino
+456;Agressao;456;Psicologica;Tarde;Estação Moreira, 328;MA;Otávio Nunes;nan;Nao-Binario;Homossexual;Negro;Ensino Medio Completo;Feminino
+457;Invalido;457;Moral;Manha;Favela de da Mota, 648;SC;Dra. Alice Barbosa;49;Homem Transgenero;Homossexual;Indigena;Ensino Medio Incompleto;Masculino
+458;Discriminacao;458;Patrimonial;Madrugada;Recanto João Felipe Câmara, 587;XX;Ana Laura Viana;15;Homem Transgenero;Bissexual;Amarelo;Ensino Superior Completo;Feminino
+459;Assedio;459;Patrimonial;Tarde;Quadra de Fogaça, 537;PA;Clarice Pereira;nan;Mulher Cisgenero;Heterossexual;Negro;Ensino Medio Completo;Masculino
+460;Outros;460;Psicologica;Madrugada;Praia da Conceição, 409;XX;Laís Peixoto;13;Homem Cisgenero;Pansexual;Indigena;Ensino Superior Completo;Feminino
+461;Assedio;461;Sexual;Tarde;Quadra Ferreira, 852;XX;Lucas Rios;108;Homem Transgenero;Bissexual;Negro;Ensino Medio Incompleto;Masculino
+462;Discriminacao;462;Psicologica;Noite;Viaduto de Gomes, 996;XX;Cecília Carvalho;72;Mulher Transgenero;Bissexual;Pardo;Ensino Superior Incompleto;Feminino
+463;Outros;463;Sexual;Manha;Residencial de Cunha, 474;RO;Dr. Ravi Sales;14;Nao-Binario;Heterossexual;Pardo;Pos-graduacao;Masculino
+464;Assedio;464;Patrimonial;Manha;Sítio de Rodrigues, 709;XX;Sr. Joaquim Barros;78;Nao-Binario;Heterossexual;Pardo;Ensino Superior Incompleto;Feminino
+465;;465;Moral;Manha;;;;57;;;;;
+466;Invalido;466;Sexual;Noite;Residencial Stella Casa Grande, 884;CE;Sr. Pedro da Mota;37;Mulher Transgenero;Assexual;Pardo;Ensino Superior Completo;Feminino
+467;Discriminacao;467;Sexual;Tarde;Sítio Andrade, 945;XX;Anthony da Conceição;37;Nao-Binario;Assexual;Indigena;Ensino Medio Incompleto;Masculino
+468;Outros;468;Sexual;Tarde;Vila Pimenta, 661;RJ;Lorena Ferreira;nan;Nao-Binario;Bissexual;Pardo;Pos-graduacao;Masculino
+469;Assedio;469;Moral;Tarde;Praia Breno Sousa, 437;CE;Otávio Pastor;97;Mulher Transgenero;Heterossexual;Negro;Ensino Fundamental Completo;Feminino
+470;Violencia Domestica;470;Moral;Tarde;Ladeira de Caldeira, 907;XX;Breno Nascimento;75;Mulher Cisgenero;Assexual;Pardo;Ensino Superior Completo;Feminino
+471;Invalido;471;Psicologica;Tarde;Recanto Ana Clara Garcia, 573;GO;Rodrigo Novais;94;Mulher Cisgenero;Bissexual;Negro;Pos-graduacao;Feminino
+472;Outros;472;Moral;Tarde;Avenida Nogueira, 873;AM;Ravi Lucca Cardoso;85;Mulher Cisgenero;Heterossexual;Negro;Pos-graduacao;Feminino
+473;;473;Moral;Tarde;;;;22;;;;;
+474;Invalido;474;Fisica;Madrugada;Praça Lara Vargas, 263;PI;Yan Carvalho;95;Mulher Transgenero;Assexual;Pardo;Ensino Superior Completo;Masculino
+475;Outros;475;Psicologica;Tarde;Campo Teixeira, 443;PI;Davi Luiz Lopes;nan;Homem Cisgenero;Assexual;Branco;Pos-graduacao;Feminino
+476;Agressao;476;Psicologica;Madrugada;Distrito Rebeca Duarte, 900;BA;Emanuelly Monteiro;6;Mulher Cisgenero;Pansexual;Negro;Ensino Medio Incompleto;Feminino
+477;Violencia Domestica;477;Sexual;Tarde;Conjunto Otávio Campos, 47;RR;Luiz Fernando Barros;7;Mulher Transgenero;Bissexual;Pardo;Ensino Medio Incompleto;Feminino
+478;Discriminacao;478;Psicologica;Manha;Trevo de Pereira, 696;GO;Dom Macedo;5;Mulher Cisgenero;Heterossexual;Branco;Ensino Medio Completo;Feminino
+479;;479;Patrimonial;Madrugada;;;;2;;;;;
+480;Outros;480;Moral;Madrugada;Lagoa Melina Castro, 815;XX;Sabrina Jesus;78;Homem Transgenero;Assexual;Negro;Ensino Superior Completo;Feminino
+481;Invalido;481;Psicologica;Tarde;Chácara de Silveira, 546;RJ;Pedro Lucas Oliveira;92;Homem Cisgenero;Heterossexual;Pardo;Ensino Medio Completo;Masculino
+482;Outros;482;Fisica;Manha;Chácara Isaac Silveira, 455;XX;José Pedro Lima;23;Nao-Binario;Pansexual;Amarelo;Ensino Medio Incompleto;Feminino
+483;Agressao;483;Fisica;Tarde;Quadra Rodrigues, 981;AP;Carolina Silveira;67;Mulher Transgenero;Pansexual;Pardo;Pos-graduacao;Masculino
+484;Outros;484;Patrimonial;Noite;Conjunto de da Costa, 823;XX;Maria Helena Lopes;65;Nao-Binario;Homossexual;Negro;Ensino Fundamental Completo;Feminino
+485;Violencia Domestica;485;Sexual;Manha;Vila de da Cruz, 537;AM;Heloisa Marques;200;Nao-Binario;Pansexual;Amarelo;Pos-graduacao;Feminino
+486;Agressao;486;Fisica;Noite;Chácara de Aparecida, 670;XX;Clara Teixeira;86;Homem Cisgenero;Homossexual;Branco;Ensino Medio Completo;Feminino
+487;Assedio;487;Moral;Madrugada;Feira de Oliveira, 863;MA;Josué Vasconcelos;27;Homem Cisgenero;Bissexual;Branco;Ensino Medio Incompleto;Feminino
+488;Invalido;488;Patrimonial;Madrugada;Largo Eduardo Barbosa, 886;PB;Anna Liz Casa Grande;23;Mulher Cisgenero;Bissexual;Pardo;Ensino Medio Completo;Feminino
+489;Agressao;489;Psicologica;Manha;Parque Ana Lívia Vasconcelos, 684;XX;Alícia Teixeira;37;Mulher Transgenero;Assexual;Indigena;Ensino Fundamental Incompleto;Masculino
+490;Invalido;490;Psicologica;Manha;Via Araújo, 136;ES;Ian Sá;104;Mulher Cisgenero;Pansexual;Indigena;Ensino Fundamental Incompleto;Masculino
+491;Outros;491;Fisica;Noite;Viela de Martins, 93;PR;Ana Júlia Cavalcanti;nan;Nao-Binario;Heterossexual;Amarelo;Pos-graduacao;Masculino
+492;Agressao;492;Sexual;Manha;Rua de Rios, 108;XX;Noah Moura;11;Nao-Binario;Assexual;Negro;Ensino Fundamental Incompleto;Feminino
+493;Outros;493;Psicologica;Madrugada;Praia de Rocha, 795;PI;João Vitor Araújo;nan;Mulher Transgenero;Heterossexual;Branco;Ensino Fundamental Completo;Masculino
+494;Assedio;494;Moral;Madrugada;Viaduto Arthur Porto, 593;XX;Pedro Lucas Cardoso;22;Nao-Binario;Pansexual;Indigena;Ensino Medio Incompleto;Feminino
+495;Discriminacao;495;Moral;Manha;Recanto Correia, 612;XX;Vitor Gabriel Ramos;45;Homem Cisgenero;Bissexual;Negro;Ensino Fundamental Incompleto;Feminino
+496;;496;Fisica;Noite;;;;5;;;;;
+497;Discriminacao;497;Patrimonial;Manha;Residencial Vieira, 698;MS;Josué Alves;177;Homem Transgenero;Homossexual;Negro;Ensino Superior Completo;Feminino
+498;;498;Moral;Tarde;;;;55;;;;;
+499;Discriminacao;499;Fisica;Madrugada;Estrada de Vargas, 887;MG;Ana Sophia Pastor;157;Homem Transgenero;Homossexual;Branco;Ensino Medio Incompleto;Feminino
+500;;500;Psicologica;Tarde;;;;53;;;;;
+501;Discriminacao;501;Psicologica;Manha;Aeroporto da Rosa, 867;CE;Maria Helena da Conceição;nan;Mulher Transgenero;Heterossexual;Amarelo;Ensino Superior Completo;Masculino
+502;Invalido;502;Fisica;Noite;Ladeira da Paz, 381;PB;Daniela Moreira;49;Homem Cisgenero;Bissexual;Negro;Ensino Medio Completo;Feminino
+503;Violencia Domestica;503;Moral;Tarde;Rua Alves, 175;SP;Emanuel da Paz;197;Mulher Cisgenero;Assexual;Indigena;Ensino Fundamental Completo;Feminino
+504;Invalido;504;Psicologica;Noite;Avenida de Duarte, 616;BA;Lara Pastor;63;Homem Cisgenero;Homossexual;Pardo;Pos-graduacao;Masculino
+505;Invalido;505;Patrimonial;Manha;Fazenda Câmara, 686;SP;Luiz Miguel Garcia;69;Homem Transgenero;Pansexual;Indigena;Ensino Medio Incompleto;Masculino
+506;Assedio;506;Psicologica;Noite;Largo da Costa, 762;XX;Dra. Letícia Pimenta;21;Homem Cisgenero;Assexual;Pardo;Ensino Medio Incompleto;Masculino
+507;Assedio;507;Patrimonial;Madrugada;Esplanada de Farias, 863;XX;Pietra Costela;59;Mulher Transgenero;Assexual;Amarelo;Ensino Superior Incompleto;Feminino
+508;Outros;508;Psicologica;Manha;Lago de da Mata, 58;TO;Milena Martins;158;Homem Transgenero;Assexual;Negro;Ensino Medio Incompleto;Masculino
+509;Invalido;509;Psicologica;Tarde;Vila de Souza, 373;RN;Davi Caldeira;7;Mulher Cisgenero;Pansexual;Amarelo;Pos-graduacao;Masculino
+510;;510;Psicologica;Tarde;;;;99;;;;;
+511;;511;Fisica;Tarde;;;;101;;;;;
+512;Invalido;512;Sexual;Manha;Setor de Almeida, 156;RN;Dra. Vitória Vargas;91;Mulher Transgenero;Pansexual;Amarelo;Ensino Medio Incompleto;Masculino
+513;Invalido;513;Fisica;Noite;Colônia de Campos, 891;SC;Luan Nogueira;46;Homem Transgenero;Bissexual;Indigena;Pos-graduacao;Feminino
+514;Invalido;514;Sexual;Tarde;Vila Rafael Rezende, 846;PE;Dr. Josué Martins;26;Homem Transgenero;Assexual;Amarelo;Ensino Fundamental Incompleto;Masculino
+515;;515;Sexual;Madrugada;;;;71;;;;;
+516;Invalido;516;Fisica;Madrugada;Rodovia Ísis Pastor, 30;SP;Jade Melo;38;Mulher Transgenero;Heterossexual;Pardo;Ensino Medio Completo;Masculino
+517;Violencia Domestica;517;Sexual;Madrugada;Fazenda da Cunha, 814;SC;Julia Borges;nan;Homem Cisgenero;Assexual;Indigena;Ensino Medio Completo;Feminino
+518;Assedio;518;Patrimonial;Noite;Trecho Fernandes, 433;XX;Pedro Miguel Aragão;9;Mulher Cisgenero;Bissexual;Indigena;Ensino Superior Completo;Masculino
+519;;519;Patrimonial;Madrugada;;;;72;;;;;
+520;;520;Fisica;Manha;;;;53;;;;;
+521;;521;Sexual;Tarde;;;;109;;;;;
+522;Violencia Domestica;522;Psicologica;Manha;Vale Enrico Rios, 894;AL;Heitor Santos;185;Homem Transgenero;Assexual;Branco;Ensino Medio Incompleto;Masculino
+523;Assedio;523;Patrimonial;Madrugada;Lago de Peixoto, 903;XX;Ana Azevedo;5;Mulher Cisgenero;Heterossexual;Amarelo;Ensino Fundamental Incompleto;Masculino
+524;Agressao;524;Moral;Manha;Trecho de Sales, 915;SP;Ian da Luz;152;Mulher Cisgenero;Homossexual;Negro;Ensino Superior Completo;Masculino
+525;Assedio;525;Moral;Manha;Quadra de Lopes, 472;XX;Jade Dias;66;Nao-Binario;Pansexual;Pardo;Pos-graduacao;Masculino
+526;Assedio;526;Patrimonial;Manha;Fazenda Lívia Vargas, 378;PR;Cecilia Pimenta;98;Mulher Transgenero;Homossexual;Branco;Ensino Medio Incompleto;Masculino
+527;Invalido;527;Psicologica;Manha;Morro Ferreira, 102;TO;Davi Miguel Cardoso;27;Mulher Transgenero;Bissexual;Branco;Ensino Medio Completo;Masculino
+528;;528;Fisica;Noite;;;;80;;;;;
+529;Outros;529;Sexual;Madrugada;Residencial Stephany Sá, 567;RN;Nicole Pimenta;21;Homem Cisgenero;Bissexual;Pardo;Ensino Superior Incompleto;Feminino
+530;Violencia Domestica;530;Psicologica;Manha;Largo Azevedo, 338;PI;Alícia Melo;51;Nao-Binario;Homossexual;Pardo;Ensino Superior Incompleto;Feminino
+531;Invalido;531;Patrimonial;Noite;Via Helena Cassiano, 902;RO;Isabel Rios;85;Mulher Transgenero;Assexual;Pardo;Ensino Fundamental Incompleto;Feminino
+532;;532;Psicologica;Manha;;;;0;;;;;
+533;;533;Sexual;Tarde;;;;101;;;;;
+534;;534;Patrimonial;Madrugada;;;;88;;;;;
+535;Agressao;535;Moral;Tarde;Avenida de Rios, 177;SC;Zoe da Costa;14;Mulher Transgenero;Heterossexual;Indigena;Pos-graduacao;Feminino
+536;Agressao;536;Sexual;Tarde;Colônia de Alves, 170;AM;Srta. Elisa Cassiano;44;Nao-Binario;Assexual;Indigena;Ensino Superior Incompleto;Feminino
+537;Assedio;537;Sexual;Tarde;Distrito de da Mata, 35;AL;Manuella da Mata;19;Mulher Cisgenero;Assexual;Branco;Ensino Fundamental Incompleto;Masculino
+538;Invalido;538;Patrimonial;Noite;Pátio Cunha, 366;ES;Asafe da Paz;12;Mulher Cisgenero;Assexual;Branco;Pos-graduacao;Masculino
+539;Assedio;539;Psicologica;Madrugada;Praia Rios, 206;XX;Benjamin Marques;51;Mulher Cisgenero;Bissexual;Indigena;Ensino Medio Incompleto;Masculino
+540;Agressao;540;Sexual;Madrugada;Ladeira Milena Carvalho, 266;XX;Caroline Pereira;44;Nao-Binario;Assexual;Branco;Ensino Medio Completo;Feminino
+541;Invalido;541;Fisica;Tarde;Colônia de Peixoto, 804;MT;Luiz Otávio Andrade;108;Homem Cisgenero;Bissexual;Negro;Ensino Superior Incompleto;Feminino
+542;Discriminacao;542;Patrimonial;Madrugada;Jardim das Neves, 167;PB;Yuri da Rosa;122;Mulher Cisgenero;Assexual;Negro;Ensino Superior Completo;Feminino
+543;Outros;543;Fisica;Madrugada;Favela Machado, 28;BA;Sra. Gabrielly Machado;89;Homem Transgenero;Pansexual;Branco;Ensino Superior Incompleto;Masculino
+544;Discriminacao;544;Moral;Madrugada;Núcleo de Fernandes, 805;RN;Caroline Lima;145;Homem Cisgenero;Heterossexual;Negro;Ensino Medio Incompleto;Masculino
+545;Discriminacao;545;Fisica;Tarde;Lagoa de Aparecida, 52;MA;Renan Garcia;68;Homem Transgenero;Assexual;Amarelo;Ensino Medio Incompleto;Feminino
+546;Invalido;546;Moral;Manha;Colônia Duarte, 618;GO;Sr. Vicente Moura;57;Nao-Binario;Pansexual;Amarelo;Ensino Superior Incompleto;Masculino
+547;Outros;547;Patrimonial;Madrugada;Feira Luiz Otávio Pinto, 142;XX;Giovanna Vieira;49;Homem Cisgenero;Assexual;Negro;Pos-graduacao;Masculino
+548;;548;Fisica;Tarde;;;;31;;;;;
+549;Invalido;549;Psicologica;Tarde;Aeroporto de Moura, 486;PR;Léo Câmara;23;Homem Cisgenero;Homossexual;Negro;Ensino Superior Completo;Masculino
+550;Assedio;550;Psicologica;Tarde;Jardim Almeida, 651;AP;Guilherme Fernandes;nan;Homem Cisgenero;Homossexual;Pardo;Ensino Medio Completo;Feminino
+551;Assedio;551;Patrimonial;Tarde;Distrito Abreu, 254;RR;José Pedro Garcia;nan;Nao-Binario;Homossexual;Branco;Ensino Superior Completo;Feminino
+552;Assedio;552;Fisica;Manha;Sítio de Andrade, 152;CE;Ravy Siqueira;8;Nao-Binario;Assexual;Negro;Pos-graduacao;Feminino
+553;Invalido;553;Fisica;Manha;Residencial Rezende, 887;SE;Maria Liz Rios;2;Homem Cisgenero;Assexual;Branco;Ensino Fundamental Completo;Masculino
+554;Outros;554;Psicologica;Manha;Esplanada Ribeiro, 942;XX;Dr. Matheus Moreira;24;Homem Transgenero;Bissexual;Pardo;Ensino Superior Completo;Masculino
+555;Outros;555;Moral;Noite;Núcleo Sales, 131;SE;Dra. Ana Silva;nan;Homem Transgenero;Bissexual;Pardo;Ensino Medio Incompleto;Masculino
+556;Agressao;556;Moral;Manha;Colônia de Rios, 982;MS;Mirella Camargo;nan;Homem Cisgenero;Heterossexual;Indigena;Pos-graduacao;Masculino
+557;Invalido;557;Patrimonial;Noite;Chácara Aylla Sampaio, 657;SC;Vitor Hugo Macedo;103;Homem Cisgenero;Bissexual;Pardo;Ensino Medio Incompleto;Feminino
+558;Violencia Domestica;558;Patrimonial;Noite;Pátio Ravy Pastor, 227;XX;Yan Oliveira;71;Homem Cisgenero;Assexual;Branco;Ensino Medio Incompleto;Feminino
+559;Violencia Domestica;559;Sexual;Madrugada;Parque Breno Câmara, 682;RS;Melissa Sousa;73;Mulher Transgenero;Assexual;Amarelo;Ensino Superior Incompleto;Masculino
+560;Outros;560;Patrimonial;Madrugada;Vale de Teixeira, 558;GO;Benício Barros;137;Mulher Cisgenero;Pansexual;Negro;Ensino Medio Completo;Feminino
+561;Assedio;561;Psicologica;Noite;Loteamento de Gomes, 715;PA;Dra. Mariah da Paz;145;Mulher Cisgenero;Homossexual;Amarelo;Ensino Fundamental Incompleto;Feminino
+562;;562;Fisica;Madrugada;;;;27;;;;;
+563;Invalido;563;Patrimonial;Madrugada;Conjunto Ravy das Neves, 980;AM;Luan Fernandes;107;Homem Cisgenero;Homossexual;Negro;Ensino Fundamental Incompleto;Masculino
+564;Invalido;564;Psicologica;Noite;Quadra Marcela Farias, 292;PB;Bruno Gonçalves;49;Mulher Transgenero;Assexual;Branco;Ensino Superior Incompleto;Masculino
+565;Invalido;565;Fisica;Madrugada;Jardim de Castro, 189;SP;Fernando Nunes;100;Mulher Cisgenero;Assexual;Amarelo;Ensino Superior Completo;Masculino
+566;;566;Moral;Tarde;;;;1;;;;;
+567;Invalido;567;Moral;Noite;Trecho Isis Abreu, 357;AP;Dra. Maria Helena Caldeira;3;Nao-Binario;Bissexual;Pardo;Ensino Superior Incompleto;Masculino
+568;Invalido;568;Moral;Noite;Distrito Isadora Lima, 923;AP;Dra. Agatha Caldeira;100;Homem Transgenero;Homossexual;Branco;Ensino Fundamental Completo;Masculino
+569;;569;Sexual;Madrugada;;;;46;;;;;
+570;Agressao;570;Psicologica;Tarde;Passarela da Cunha, 747;XX;Igor Nogueira;19;Nao-Binario;Bissexual;Amarelo;Ensino Fundamental Incompleto;Feminino
+571;Agressao;571;Moral;Madrugada;Feira Rocha, 318;XX;Vitor Viana;53;Mulher Cisgenero;Heterossexual;Pardo;Ensino Fundamental Incompleto;Masculino
+572;;572;Psicologica;Tarde;;;;14;;;;;
+573;Discriminacao;573;Moral;Tarde;Trecho Amanda Nogueira, 537;XX;Maria Sophia Porto;51;Homem Transgenero;Homossexual;Branco;Ensino Superior Incompleto;Masculino
+574;Discriminacao;574;Moral;Manha;Feira Mendonça, 944;RO;Maria Laura Machado;nan;Nao-Binario;Heterossexual;Negro;Ensino Superior Completo;Feminino
+575;Invalido;575;Sexual;Noite;Favela Cunha, 485;GO;Maria Isis Rezende;70;Mulher Cisgenero;Pansexual;Negro;Ensino Medio Incompleto;Feminino
+576;Invalido;576;Moral;Tarde;Largo Costela, 386;MT;Luiz Fernando Fogaça;20;Nao-Binario;Bissexual;Amarelo;Ensino Fundamental Completo;Feminino
+577;;577;Sexual;Noite;;;;22;;;;;
+578;Outros;578;Sexual;Manha;Viela Jesus, 546;CE;Antony da Cruz;62;Mulher Transgenero;Bissexual;Pardo;Ensino Medio Incompleto;Masculino
+579;Violencia Domestica;579;Patrimonial;Madrugada;Estrada Murilo Cardoso, 229;RN;Srta. Eduarda das Neves;22;Homem Transgenero;Heterossexual;Amarelo;Ensino Medio Incompleto;Masculino
+580;Outros;580;Moral;Noite;Praia Montenegro, 282;AP;Isabela Sampaio;nan;Homem Transgenero;Heterossexual;Branco;Ensino Fundamental Incompleto;Masculino
+581;Assedio;581;Sexual;Tarde;Núcleo Cassiano, 85;PR;Sra. Marina Vargas;nan;Homem Cisgenero;Bissexual;Pardo;Ensino Fundamental Incompleto;Feminino
+582;;582;Patrimonial;Madrugada;;;;77;;;;;
+583;Invalido;583;Psicologica;Madrugada;Área Benício da Paz, 78;PE;Letícia Cassiano;80;Nao-Binario;Assexual;Amarelo;Ensino Superior Incompleto;Feminino
+584;Discriminacao;584;Fisica;Noite;Aeroporto de Guerra, 420;RS;Emanuella Dias;nan;Homem Transgenero;Pansexual;Negro;Ensino Superior Incompleto;Masculino
+585;Assedio;585;Fisica;Manha;Fazenda Souza, 464;XX;Marina Nascimento;75;Homem Transgenero;Heterossexual;Negro;Ensino Medio Incompleto;Masculino
+586;;586;Fisica;Madrugada;;;;43;;;;;
+587;Outros;587;Patrimonial;Tarde;Setor Ester Dias, 127;MS;Maria Helena Caldeira;39;Homem Cisgenero;Bissexual;Pardo;Pos-graduacao;Masculino
+588;;588;Sexual;Noite;;;;15;;;;;
+589;;589;Moral;Noite;;;;85;;;;;
+590;Outros;590;Fisica;Madrugada;Via de Sousa, 635;XX;Vicente Duarte;27;Homem Cisgenero;Assexual;Negro;Ensino Medio Incompleto;Masculino
+591;Assedio;591;Psicologica;Noite;Distrito de Viana, 290;XX;Igor Fernandes;26;Mulher Transgenero;Bissexual;Negro;Ensino Medio Completo;Masculino
+592;Invalido;592;Patrimonial;Manha;Parque de Lima, 740;AC;Clarice Macedo;101;Mulher Cisgenero;Homossexual;Indigena;Pos-graduacao;Masculino
+593;Outros;593;Moral;Noite;Feira Mariah Moura, 294;XX;Ana Sophia Sá;101;Nao-Binario;Heterossexual;Indigena;Pos-graduacao;Feminino
+594;Discriminacao;594;Psicologica;Tarde;Trecho Isabela Alves, 931;PE;Benicio Costela;61;Mulher Cisgenero;Assexual;Negro;Ensino Fundamental Completo;Feminino
+595;;595;Sexual;Manha;;;;20;;;;;
+596;Invalido;596;Psicologica;Madrugada;Trevo Teixeira, 189;PE;Benjamim Novais;92;Nao-Binario;Pansexual;Indigena;Ensino Fundamental Incompleto;Masculino
+597;Outros;597;Sexual;Madrugada;Viela de Camargo, 51;XX;Noah da Rocha;14;Mulher Transgenero;Assexual;Branco;Ensino Fundamental Completo;Masculino
+598;;598;Moral;Tarde;;;;76;;;;;
+599;Agressao;599;Patrimonial;Tarde;Estação Rezende, 403;SE;Lucas Gabriel Ferreira;76;Nao-Binario;Bissexual;Negro;Ensino Medio Incompleto;Masculino
+600;Agressao;600;Psicologica;Noite;Vale Sousa, 101;CE;Aylla Costa;144;Nao-Binario;Bissexual;Negro;Ensino Fundamental Completo;Masculino
+601;Agressao;601;Patrimonial;Manha;Vale de Sales, 722;MA;Leonardo Sousa;7;Homem Cisgenero;Assexual;Amarelo;Ensino Superior Completo;Masculino
+602;Assedio;602;Psicologica;Madrugada;Sítio Ana Liz Costa, 630;MA;Ana Laura Cardoso;0;Mulher Cisgenero;Bissexual;Negro;Ensino Fundamental Incompleto;Feminino
+603;Invalido;603;Sexual;Madrugada;Setor Ana Carolina Garcia, 219;RO;Fernanda da Mota;34;Nao-Binario;Heterossexual;Negro;Ensino Medio Completo;Masculino
+604;Violencia Domestica;604;Fisica;Tarde;Distrito Cunha, 549;MT;Ravy Rodrigues;nan;Nao-Binario;Homossexual;Negro;Ensino Superior Incompleto;Feminino
+605;;605;Moral;Manha;;;;66;;;;;
+606;Invalido;606;Sexual;Noite;Trevo Otávio Cunha, 749;AP;Bella Rios;48;Nao-Binario;Homossexual;Indigena;Ensino Superior Completo;Masculino
+607;;607;Sexual;Madrugada;;;;23;;;;;
+608;Invalido;608;Fisica;Madrugada;Favela Pereira, 289;CE;Clarice Campos;106;Mulher Transgenero;Heterossexual;Amarelo;Ensino Superior Incompleto;Masculino
+609;Violencia Domestica;609;Sexual;Noite;Viela Dante Machado, 829;PR;Luna Peixoto;12;Homem Transgenero;Assexual;Pardo;Ensino Fundamental Incompleto;Masculino
+610;Invalido;610;Sexual;Madrugada;Lago Marques, 751;CE;Gabriel Brito;81;Nao-Binario;Assexual;Pardo;Ensino Superior Incompleto;Feminino
+611;;611;Patrimonial;Madrugada;;;;69;;;;;
+612;Violencia Domestica;612;Sexual;Tarde;Loteamento Carvalho, 95;XX;Larissa da Luz;3;Mulher Transgenero;Heterossexual;Amarelo;Pos-graduacao;Feminino
+613;;613;Patrimonial;Noite;;;;19;;;;;
+614;Agressao;614;Fisica;Madrugada;Vereda Ana Pastor, 787;XX;Gael Henrique Moreira;79;Mulher Transgenero;Assexual;Pardo;Ensino Superior Incompleto;Masculino
+615;Assedio;615;Sexual;Noite;Trevo Sousa, 274;ES;Ana Julia Pimenta;17;Nao-Binario;Heterossexual;Negro;Ensino Fundamental Completo;Masculino
+616;Discriminacao;616;Sexual;Madrugada;Condomínio Manuella Lopes, 483;ES;Anna Liz Rocha;191;Mulher Cisgenero;Assexual;Amarelo;Ensino Medio Completo;Masculino
+617;Agressao;617;Patrimonial;Noite;Vila Davi Lucca Machado, 680;PE;Valentina Vieira;91;Mulher Transgenero;Pansexual;Pardo;Ensino Superior Completo;Masculino
+618;Violencia Domestica;618;Moral;Tarde;Estação Machado, 613;MS;Pedro Henrique Cavalcanti;79;Nao-Binario;Pansexual;Branco;Ensino Medio Completo;Feminino
+619;;619;Moral;Madrugada;;;;34;;;;;
+620;Invalido;620;Fisica;Manha;Rua de Abreu, 963;CE;Dra. Maria Luiza Fonseca;64;Nao-Binario;Homossexual;Pardo;Ensino Medio Incompleto;Feminino
+621;Assedio;621;Patrimonial;Manha;Vila Camila Peixoto, 124;AP;Oliver Pastor;nan;Homem Transgenero;Assexual;Branco;Ensino Fundamental Completo;Feminino
+622;Assedio;622;Patrimonial;Madrugada;Lagoa de Viana, 902;RS;Juan Vieira;73;Homem Cisgenero;Pansexual;Negro;Ensino Superior Completo;Feminino
+623;Outros;623;Moral;Madrugada;Vale de da Cruz, 537;AM;Sophie Pinto;193;Mulher Cisgenero;Bissexual;Negro;Pos-graduacao;Masculino
+624;Outros;624;Fisica;Madrugada;Campo Ana Julia Barros, 223;MS;Bernardo da Conceição;50;Homem Transgenero;Assexual;Indigena;Ensino Medio Completo;Feminino
+625;Violencia Domestica;625;Sexual;Manha;Via da Luz, 362;XX;Bruna Silva;37;Homem Cisgenero;Bissexual;Branco;Ensino Medio Incompleto;Feminino
+626;Violencia Domestica;626;Psicologica;Tarde;Distrito das Neves, 102;PB;Enzo Gabriel Macedo;nan;Homem Cisgenero;Assexual;Branco;Ensino Medio Incompleto;Masculino
+627;Invalido;627;Sexual;Noite;Condomínio de Lopes, 848;GO;Dra. Sophie da Cruz;93;Mulher Transgenero;Assexual;Amarelo;Ensino Fundamental Incompleto;Feminino
+628;Violencia Domestica;628;Psicologica;Manha;Alameda Luiz Felipe Vieira, 25;RR;Dra. Antonella Correia;nan;Mulher Transgenero;Homossexual;Pardo;Ensino Superior Completo;Masculino
+629;Invalido;629;Fisica;Tarde;Travessa de Aragão, 330;AC;Luana Teixeira;101;Mulher Cisgenero;Assexual;Negro;Pos-graduacao;Feminino
+630;Invalido;630;Psicologica;Manha;Estrada Bryan Albuquerque, 274;DF;Allana Azevedo;52;Nao-Binario;Heterossexual;Amarelo;Ensino Superior Incompleto;Feminino
+631;Violencia Domestica;631;Sexual;Noite;Residencial de Pimenta, 766;XX;Mariane Rios;3;Homem Transgenero;Homossexual;Indigena;Ensino Fundamental Incompleto;Masculino
+632;;632;Patrimonial;Tarde;;;;72;;;;;
+633;Invalido;633;Sexual;Madrugada;Lagoa Pereira, 120;RR;Marcos Vinicius Silveira;35;Homem Transgenero;Assexual;Branco;Ensino Superior Incompleto;Masculino
+634;Outros;634;Fisica;Noite;Recanto Rezende, 795;SC;Sr. Theo Martins;1;Mulher Transgenero;Homossexual;Amarelo;Ensino Superior Completo;Masculino
+635;Invalido;635;Patrimonial;Manha;Sítio Letícia Leão, 7;CE;Léo Moreira;68;Nao-Binario;Assexual;Branco;Ensino Fundamental Completo;Feminino
+636;Invalido;636;Fisica;Noite;Estação Peixoto, 205;BA;Sr. Daniel Oliveira;104;Mulher Cisgenero;Assexual;Negro;Ensino Medio Completo;Feminino
+637;Invalido;637;Moral;Noite;Distrito Vitória Nunes, 207;GO;Sra. Stella Pacheco;99;Mulher Transgenero;Assexual;Amarelo;Ensino Medio Completo;Masculino
+638;Agressao;638;Patrimonial;Manha;Largo Maysa Novais, 876;TO;Dr. Joaquim Albuquerque;161;Homem Cisgenero;Bissexual;Branco;Pos-graduacao;Masculino
+639;Assedio;639;Psicologica;Tarde;Quadra de da Costa, 803;MG;Isabelly Araújo;nan;Homem Cisgenero;Heterossexual;Negro;Ensino Medio Incompleto;Masculino
+640;Discriminacao;640;Patrimonial;Madrugada;Alameda de das Neves, 359;XX;Sabrina Cavalcante;9;Mulher Transgenero;Homossexual;Indigena;Ensino Medio Completo;Masculino
+641;Assedio;641;Fisica;Madrugada;Parque da Costa, 940;XX;Sra. Juliana Montenegro;92;Homem Cisgenero;Pansexual;Negro;Ensino Medio Incompleto;Feminino
+642;;642;Sexual;Manha;;;;63;;;;;
+643;;643;Moral;Noite;;;;80;;;;;
+644;Assedio;644;Psicologica;Madrugada;Fazenda Lima, 924;XX;Caroline Camargo;101;Mulher Transgenero;Assexual;Indigena;Pos-graduacao;Feminino
+645;Discriminacao;645;Patrimonial;Madrugada;Campo Farias, 878;RS;Sr. Caio Moreira;133;Homem Cisgenero;Heterossexual;Branco;Ensino Superior Incompleto;Feminino
+646;Outros;646;Fisica;Madrugada;Lago de Novais, 758;RR;Srta. Eloá Alves;59;Mulher Cisgenero;Bissexual;Branco;Ensino Medio Incompleto;Feminino
+647;Violencia Domestica;647;Moral;Manha;Praia Carvalho, 952;PI;Davi Lima;56;Mulher Cisgenero;Assexual;Amarelo;Ensino Superior Incompleto;Masculino
+648;Outros;648;Patrimonial;Noite;Favela de Barros, 908;ES;Rael Pires;136;Nao-Binario;Heterossexual;Pardo;Ensino Superior Incompleto;Feminino
+649;Violencia Domestica;649;Patrimonial;Manha;Distrito de Novaes, 444;SC;Luiz Miguel Nascimento;nan;Nao-Binario;Pansexual;Indigena;Ensino Medio Incompleto;Masculino
+650;Invalido;650;Sexual;Madrugada;Alameda Oliveira, 633;MG;Valentina Moraes;49;Homem Cisgenero;Homossexual;Pardo;Ensino Fundamental Incompleto;Masculino
+651;Outros;651;Sexual;Tarde;Favela Melissa Monteiro, 787;SP;Anthony Gomes;nan;Homem Cisgenero;Pansexual;Negro;Ensino Fundamental Incompleto;Masculino
+652;Discriminacao;652;Fisica;Manha;Núcleo de Câmara, 332;XX;Luísa Cardoso;59;Homem Cisgenero;Homossexual;Branco;Ensino Medio Incompleto;Masculino
+653;Outros;653;Fisica;Tarde;Pátio Cardoso, 735;PR;Igor Cirino;nan;Nao-Binario;Homossexual;Negro;Ensino Fundamental Completo;Feminino
+654;Discriminacao;654;Patrimonial;Madrugada;Vereda de Ramos, 677;XX;Olívia Alves;84;Nao-Binario;Assexual;Pardo;Ensino Fundamental Incompleto;Feminino
+655;Outros;655;Fisica;Madrugada;Viela de Nascimento, 190;XX;Sr. Théo Cardoso;102;Nao-Binario;Bissexual;Branco;Ensino Fundamental Completo;Masculino
+656;Invalido;656;Fisica;Manha;Residencial de Mendes, 25;BA;Luiz Otávio da Paz;13;Homem Transgenero;Assexual;Branco;Ensino Medio Completo;Masculino
+657;Assedio;657;Patrimonial;Tarde;Alameda Thomas da Cunha, 971;PA;Miguel da Luz;91;Mulher Transgenero;Homossexual;Branco;Ensino Fundamental Completo;Feminino
+658;Assedio;658;Psicologica;Noite;Colônia Gael Barros, 121;RJ;Luigi Vieira;nan;Mulher Cisgenero;Homossexual;Branco;Ensino Fundamental Completo;Feminino
+659;Outros;659;Psicologica;Noite;Condomínio de Nascimento, 207;CE;Yasmin Caldeira;110;Mulher Transgenero;Pansexual;Amarelo;Ensino Medio Incompleto;Feminino
+660;Outros;660;Fisica;Madrugada;Campo de Vieira, 503;PI;Sr. João Pedro Moura;105;Nao-Binario;Bissexual;Amarelo;Ensino Medio Completo;Feminino
+661;Discriminacao;661;Sexual;Manha;Rodovia Luiz Fernando Pimenta, 766;MG;Enzo Barbosa;nan;Homem Cisgenero;Bissexual;Negro;Ensino Medio Completo;Feminino
+662;Outros;662;Moral;Madrugada;Vila de Silveira, 147;XX;Otto Cunha;43;Mulher Cisgenero;Heterossexual;Indigena;Ensino Superior Completo;Feminino
+663;;663;Sexual;Manha;;;;35;;;;;
+664;Outros;664;Fisica;Noite;Condomínio de Nunes, 6;XX;Dra. Ana Lívia Macedo;21;Mulher Cisgenero;Bissexual;Indigena;Ensino Medio Completo;Masculino
+665;Invalido;665;Patrimonial;Noite;Setor Brito, 272;PB;Calebe Silveira;50;Mulher Transgenero;Pansexual;Negro;Ensino Superior Incompleto;Masculino
+666;Invalido;666;Fisica;Madrugada;Viaduto Noah Lima, 37;MG;Ana Liz da Luz;98;Homem Transgenero;Heterossexual;Branco;Ensino Medio Completo;Masculino
+667;Violencia Domestica;667;Sexual;Tarde;Recanto Samuel Pinto, 287;PB;Brenda Costa;8;Homem Cisgenero;Heterossexual;Negro;Ensino Medio Incompleto;Masculino
+668;Invalido;668;Moral;Madrugada;Trecho Henry Cavalcante, 946;PI;Oliver Siqueira;25;Homem Cisgenero;Assexual;Amarelo;Pos-graduacao;Feminino
+669;Assedio;669;Patrimonial;Tarde;Campo Ana Luiza Rocha, 706;XX;Maria Júlia Ferreira;79;Mulher Transgenero;Heterossexual;Branco;Ensino Fundamental Incompleto;Feminino
+670;Violencia Domestica;670;Patrimonial;Madrugada;Esplanada Arthur Guerra, 144;XX;Maria Júlia da Rosa;48;Homem Cisgenero;Homossexual;Negro;Ensino Fundamental Completo;Feminino
+671;Agressao;671;Patrimonial;Manha;Chácara Carvalho, 419;XX;Leonardo Borges;62;Homem Cisgenero;Heterossexual;Negro;Ensino Superior Completo;Masculino
+672;;672;Psicologica;Noite;;;;95;;;;;
+673;Discriminacao;673;Moral;Manha;Loteamento Alexia Gonçalves, 6;XX;Rafaela Leão;50;Nao-Binario;Pansexual;Pardo;Ensino Fundamental Incompleto;Feminino
+674;Invalido;674;Psicologica;Manha;Recanto Mateus Silva, 995;BA;Arthur Marques;108;Homem Transgenero;Bissexual;Amarelo;Ensino Superior Incompleto;Masculino
+675;;675;Moral;Noite;;;;102;;;;;
+676;Invalido;676;Fisica;Madrugada;Colônia Mendes, 752;PE;Gael Fogaça;79;Homem Cisgenero;Bissexual;Amarelo;Ensino Fundamental Completo;Masculino
+677;;677;Patrimonial;Manha;;;;103;;;;;
+678;Agressao;678;Sexual;Noite;Lagoa de Alves, 633;MG;Heloisa Silveira;0;Nao-Binario;Bissexual;Branco;Ensino Medio Completo;Feminino
+679;;679;Psicologica;Noite;;;;6;;;;;
+680;Discriminacao;680;Moral;Madrugada;Pátio de da Costa, 726;AL;Maria Laura Santos;94;Homem Cisgenero;Assexual;Indigena;Ensino Fundamental Incompleto;Masculino
+681;;681;Sexual;Noite;;;;79;;;;;
+682;Discriminacao;682;Patrimonial;Noite;Avenida Ribeiro, 648;PR;Bento Cavalcante;53;Homem Transgenero;Assexual;Negro;Ensino Fundamental Incompleto;Feminino
+683;Invalido;683;Sexual;Tarde;Lagoa Rebeca Peixoto, 18;RR;Sabrina Peixoto;80;Mulher Cisgenero;Pansexual;Negro;Ensino Medio Completo;Feminino
+684;Violencia Domestica;684;Psicologica;Manha;Vereda João Vitor Camargo, 272;RN;Liz Pastor;nan;Homem Transgenero;Pansexual;Negro;Ensino Superior Incompleto;Feminino
+685;Violencia Domestica;685;Fisica;Tarde;Alameda de Albuquerque, 873;SC;Theo Sampaio;105;Homem Cisgenero;Heterossexual;Negro;Pos-graduacao;Masculino
+686;Violencia Domestica;686;Sexual;Manha;Feira Montenegro, 333;CE;Sabrina Brito;99;Nao-Binario;Heterossexual;Amarelo;Ensino Medio Incompleto;Feminino
+687;Agressao;687;Sexual;Noite;Largo de Guerra, 276;RO;Hadassa Duarte;83;Homem Cisgenero;Homossexual;Negro;Pos-graduacao;Masculino
+688;Invalido;688;Moral;Madrugada;Área de Fernandes, 181;ES;Sophia Vieira;33;Homem Cisgenero;Assexual;Pardo;Ensino Superior Incompleto;Masculino
+689;Invalido;689;Moral;Tarde;Quadra Silva, 854;MG;Luísa Mendes;11;Homem Cisgenero;Pansexual;Amarelo;Ensino Superior Completo;Feminino
+690;;690;Fisica;Madrugada;;;;21;;;;;
+691;Violencia Domestica;691;Fisica;Noite;Aeroporto Lívia da Cruz, 130;PI;Ester Camargo;60;Homem Transgenero;Pansexual;Branco;Ensino Superior Completo;Feminino
+692;;692;Sexual;Manha;;;;70;;;;;
+693;Discriminacao;693;Patrimonial;Manha;Colônia Pedro Lucas Barros, 763;AL;Maria Luiza Sales;174;Mulher Transgenero;Pansexual;Indigena;Ensino Medio Completo;Masculino
+694;Invalido;694;Patrimonial;Manha;Conjunto Ana Lívia Garcia, 666;AL;Alícia da Conceição;101;Mulher Transgenero;Bissexual;Indigena;Ensino Fundamental Incompleto;Feminino
+695;Outros;695;Psicologica;Noite;Estrada Bento Cirino, 569;PA;João Miguel Nascimento;69;Nao-Binario;Bissexual;Pardo;Ensino Fundamental Completo;Feminino
+696;Agressao;696;Fisica;Madrugada;Conjunto Rodrigues, 219;SC;Liz Aragão;68;Mulher Transgenero;Pansexual;Amarelo;Ensino Superior Incompleto;Feminino
+697;Discriminacao;697;Sexual;Manha;Aeroporto Novais, 90;PE;José Miguel Aragão;47;Mulher Cisgenero;Bissexual;Negro;Ensino Superior Incompleto;Masculino
+698;Assedio;698;Sexual;Tarde;Morro de Rezende, 801;MT;Luiz Henrique Montenegro;29;Homem Cisgenero;Bissexual;Pardo;Ensino Medio Incompleto;Feminino
+699;Discriminacao;699;Fisica;Manha;Feira Duarte, 976;PR;Sr. Cauã da Cunha;nan;Homem Transgenero;Pansexual;Indigena;Ensino Superior Completo;Masculino
+700;Invalido;700;Sexual;Manha;Vale Raul Porto, 258;PB;Laís Oliveira;79;Homem Cisgenero;Heterossexual;Branco;Ensino Fundamental Incompleto;Masculino
+701;Discriminacao;701;Moral;Tarde;Trecho de Peixoto, 623;XX;Nina Macedo;76;Mulher Transgenero;Homossexual;Amarelo;Ensino Fundamental Completo;Masculino
+702;;702;Patrimonial;Manha;;;;103;;;;;
+703;Invalido;703;Sexual;Manha;Alameda Sophie Santos, 840;PA;Lunna Nogueira;25;Homem Cisgenero;Pansexual;Amarelo;Ensino Fundamental Completo;Masculino
+704;;704;Patrimonial;Manha;;;;5;;;;;
+705;Discriminacao;705;Patrimonial;Tarde;Fazenda Lima, 83;PB;Srta. Ísis Siqueira;nan;Homem Transgenero;Assexual;Pardo;Ensino Fundamental Completo;Masculino
+706;Agressao;706;Patrimonial;Noite;Núcleo Gael Henrique Ferreira, 280;MG;João Pedro Sampaio;nan;Mulher Transgenero;Bissexual;Negro;Ensino Medio Incompleto;Masculino
+707;Assedio;707;Psicologica;Madrugada;Parque Silveira, 654;PI;Milena Santos;85;Nao-Binario;Heterossexual;Indigena;Ensino Medio Completo;Feminino
+708;Agressao;708;Fisica;Tarde;Núcleo Pimenta, 1;XX;Lucas Abreu;107;Homem Transgenero;Pansexual;Branco;Ensino Medio Completo;Feminino
+709;;709;Psicologica;Tarde;;;;6;;;;;
+710;Violencia Domestica;710;Patrimonial;Noite;Colônia Teixeira, 868;DF;Henrique Rezende;69;Homem Cisgenero;Heterossexual;Amarelo;Ensino Medio Incompleto;Masculino
+711;Discriminacao;711;Fisica;Tarde;Residencial Enrico Nascimento, 907;TO;Luiz Gustavo Ramos;78;Nao-Binario;Pansexual;Indigena;Ensino Fundamental Incompleto;Masculino
+712;Violencia Domestica;712;Sexual;Noite;Aeroporto João Gabriel Lima, 931;PE;André Moreira;7;Mulher Transgenero;Pansexual;Pardo;Ensino Superior Completo;Masculino
+713;Outros;713;Fisica;Madrugada;Viela de da Paz, 928;XX;Beatriz Novaes;109;Homem Transgenero;Homossexual;Negro;Ensino Medio Incompleto;Masculino
+714;Violencia Domestica;714;Sexual;Madrugada;Favela Martins, 935;PA;João Lucas Leão;42;Mulher Transgenero;Pansexual;Indigena;Ensino Fundamental Completo;Masculino
+715;Assedio;715;Fisica;Madrugada;Praça Cardoso, 790;MA;Valentina Souza;125;Homem Cisgenero;Assexual;Amarelo;Ensino Superior Incompleto;Masculino
+716;Outros;716;Psicologica;Madrugada;Lago de da Mota, 960;DF;Esther da Conceição;174;Homem Transgenero;Pansexual;Negro;Pos-graduacao;Feminino
+717;Violencia Domestica;717;Patrimonial;Manha;Trevo de Costa, 779;ES;Ravi Campos;nan;Mulher Cisgenero;Homossexual;Branco;Pos-graduacao;Feminino
+718;Outros;718;Patrimonial;Madrugada;Pátio Albuquerque, 689;XX;Sr. Arthur Gabriel Martins;38;Homem Cisgenero;Homossexual;Negro;Ensino Superior Incompleto;Masculino
+719;Outros;719;Fisica;Madrugada;Jardim da Rocha, 167;XX;Sr. Emanuel Leão;52;Homem Cisgenero;Heterossexual;Indigena;Ensino Medio Incompleto;Feminino
+720;Outros;720;Patrimonial;Manha;Jardim Stella da Luz, 118;AL;Dr. Vitor Silveira;84;Homem Cisgenero;Homossexual;Pardo;Ensino Superior Incompleto;Feminino
+721;Violencia Domestica;721;Psicologica;Tarde;Área Guilherme Santos, 979;XX;Sabrina Pimenta;5;Homem Transgenero;Homossexual;Branco;Ensino Superior Incompleto;Masculino
+722;;722;Fisica;Noite;;;;45;;;;;
+723;Agressao;723;Moral;Noite;Quadra Vitor Fogaça, 19;RS;Paulo da Cunha;110;Mulher Transgenero;Pansexual;Pardo;Ensino Medio Completo;Feminino
+724;Assedio;724;Fisica;Noite;Pátio de Jesus, 91;XX;Bernardo Costa;3;Homem Transgenero;Homossexual;Pardo;Pos-graduacao;Feminino
+725;Invalido;725;Sexual;Manha;Lagoa Carvalho, 288;SE;Valentim Ferreira;1;Nao-Binario;Bissexual;Pardo;Ensino Superior Incompleto;Masculino
+726;Outros;726;Sexual;Madrugada;Parque Laura da Mota, 523;ES;Maria Laura Aragão;35;Homem Transgenero;Homossexual;Indigena;Ensino Superior Incompleto;Masculino
+727;;727;Sexual;Madrugada;;;;89;;;;;
+728;;728;Fisica;Manha;;;;65;;;;;
+729;Invalido;729;Sexual;Noite;Avenida de da Mota, 580;RS;Brenda Costela;90;Mulher Cisgenero;Bissexual;Branco;Ensino Fundamental Completo;Feminino
+730;Invalido;730;Sexual;Madrugada;Trecho de Borges, 104;CE;Maria Luísa Costa;7;Mulher Cisgenero;Pansexual;Amarelo;Ensino Superior Incompleto;Feminino
+731;Agressao;731;Psicologica;Manha;Passarela Azevedo, 176;MA;Liam Sousa;55;Homem Transgenero;Bissexual;Pardo;Ensino Superior Completo;Feminino
+732;Discriminacao;732;Psicologica;Noite;Colônia de da Conceição, 749;XX;Julia da Rosa;15;Nao-Binario;Homossexual;Branco;Pos-graduacao;Feminino
+733;Outros;733;Psicologica;Tarde;Praça de Porto, 568;BA;Aylla Sales;105;Mulher Cisgenero;Homossexual;Negro;Ensino Superior Completo;Feminino
+734;Assedio;734;Sexual;Noite;Recanto Cirino, 709;XX;Sra. Giovanna Moura;101;Homem Cisgenero;Bissexual;Indigena;Ensino Medio Incompleto;Feminino
+735;Assedio;735;Psicologica;Tarde;Lagoa de Azevedo, 195;XX;João Vitor Vasconcelos;108;Nao-Binario;Heterossexual;Pardo;Ensino Superior Incompleto;Masculino
+736;Outros;736;Moral;Tarde;Travessa Marina Rodrigues, 908;PI;Aylla da Cruz;163;Mulher Cisgenero;Pansexual;Indigena;Pos-graduacao;Feminino
+737;Invalido;737;Fisica;Tarde;Praça Lopes, 488;BA;Ana Vitória da Cruz;1;Homem Transgenero;Assexual;Amarelo;Pos-graduacao;Feminino
+738;;738;Sexual;Madrugada;;;;1;;;;;
+739;Assedio;739;Sexual;Tarde;Setor Luan da Luz, 194;XX;Elisa da Costa;68;Mulher Transgenero;Heterossexual;Pardo;Ensino Fundamental Completo;Masculino
+740;Violencia Domestica;740;Psicologica;Tarde;Aeroporto de Ferreira, 621;AC;Marina Peixoto;nan;Nao-Binario;Bissexual;Pardo;Ensino Fundamental Incompleto;Masculino
+741;Outros;741;Fisica;Tarde;Lago de Fogaça, 451;AL;Nicolas Moura;4;Nao-Binario;Homossexual;Amarelo;Pos-graduacao;Masculino
+742;Agressao;742;Fisica;Madrugada;Feira Cassiano, 930;DF;Giovanna Pacheco;33;Mulher Transgenero;Bissexual;Amarelo;Ensino Superior Completo;Masculino
+743;Assedio;743;Sexual;Manha;Campo Castro, 64;PR;Josué Peixoto;162;Nao-Binario;Homossexual;Pardo;Ensino Medio Completo;Feminino
+744;Invalido;744;Fisica;Madrugada;Pátio de Correia, 689;MT;Sara da Cruz;47;Mulher Cisgenero;Pansexual;Negro;Ensino Medio Incompleto;Masculino
+745;Violencia Domestica;745;Patrimonial;Noite;Trevo Cavalcanti, 326;PR;Sr. Marcos Vinicius Almeida;34;Nao-Binario;Bissexual;Amarelo;Ensino Superior Incompleto;Masculino
+746;Outros;746;Sexual;Manha;Área Carolina Fonseca, 82;GO;Kamilly Novaes;6;Homem Transgenero;Assexual;Indigena;Ensino Superior Incompleto;Feminino
+747;Outros;747;Patrimonial;Noite;Sítio Cunha, 8;RR;Sr. Davi Aparecida;47;Homem Cisgenero;Homossexual;Pardo;Ensino Superior Incompleto;Masculino
+748;Discriminacao;748;Fisica;Madrugada;Travessa Rezende, 556;SE;Elisa Pacheco;92;Nao-Binario;Homossexual;Amarelo;Ensino Superior Incompleto;Masculino
+749;;749;Moral;Noite;;;;103;;;;;
+750;;750;Fisica;Noite;;;;108;;;;;
+751;;751;Patrimonial;Manha;;;;60;;;;;
+752;;752;Sexual;Madrugada;;;;103;;;;;
+753;;753;Sexual;Manha;;;;89;;;;;
+754;Invalido;754;Patrimonial;Tarde;Vila Moreira, 642;AL;Hadassa Costa;16;Homem Cisgenero;Bissexual;Indigena;Ensino Fundamental Incompleto;Feminino
+755;Assedio;755;Fisica;Tarde;Travessa de da Luz, 283;RJ;Dra. Clarice da Rocha;132;Mulher Transgenero;Homossexual;Indigena;Pos-graduacao;Masculino
+756;Assedio;756;Moral;Noite;Chácara de Leão, 904;XX;Isis da Paz;0;Homem Transgenero;Pansexual;Pardo;Ensino Fundamental Completo;Masculino
+757;Violencia Domestica;757;Psicologica;Noite;Praia Ian Fernandes, 88;MS;Sara Rodrigues;9;Homem Transgenero;Homossexual;Negro;Ensino Medio Completo;Masculino
+758;Assedio;758;Fisica;Manha;Trecho de Mendes, 160;AC;Ana Barbosa;40;Mulher Cisgenero;Homossexual;Pardo;Ensino Superior Incompleto;Masculino
+759;Discriminacao;759;Psicologica;Tarde;Travessa Azevedo, 773;PB;Amanda Souza;nan;Mulher Cisgenero;Pansexual;Pardo;Ensino Fundamental Incompleto;Feminino
+760;Violencia Domestica;760;Fisica;Manha;Viela Pacheco, 105;XX;Vinícius Brito;76;Homem Transgenero;Homossexual;Negro;Ensino Medio Completo;Masculino
+761;;761;Fisica;Noite;;;;23;;;;;
+762;Agressao;762;Sexual;Tarde;Praça Luara Abreu, 612;AC;Kevin Cavalcanti;nan;Homem Transgenero;Assexual;Indigena;Ensino Fundamental Completo;Feminino
+763;;763;Psicologica;Manha;;;;22;;;;;
+764;Invalido;764;Moral;Noite;Esplanada Ian Lopes, 74;GO;Maria Clara Fogaça;26;Homem Transgenero;Heterossexual;Negro;Ensino Fundamental Completo;Masculino
+765;Invalido;765;Sexual;Tarde;Fazenda Rocha, 797;RR;Maria Luísa Costa;28;Homem Transgenero;Heterossexual;Negro;Ensino Fundamental Completo;Feminino
+766;Invalido;766;Moral;Manha;Aeroporto Théo das Neves, 430;AL;Maria Alice Moraes;48;Mulher Transgenero;Heterossexual;Negro;Ensino Fundamental Completo;Masculino
+767;Discriminacao;767;Fisica;Tarde;Alameda de Caldeira, 55;XX;Joana Rios;74;Homem Transgenero;Pansexual;Branco;Ensino Fundamental Incompleto;Feminino
+768;Invalido;768;Patrimonial;Manha;Campo de Jesus, 72;SE;Brayan Nunes;44;Homem Transgenero;Homossexual;Branco;Ensino Fundamental Completo;Masculino
+769;Invalido;769;Moral;Manha;Feira de Leão, 280;PE;Allana Melo;40;Homem Cisgenero;Pansexual;Amarelo;Ensino Medio Incompleto;Masculino
+770;Invalido;770;Fisica;Manha;Travessa Davi Lucca Lopes, 326;MT;Srta. Lívia Oliveira;46;Homem Transgenero;Bissexual;Amarelo;Ensino Superior Completo;Masculino
+771;;771;Psicologica;Tarde;;;;68;;;;;
+772;Outros;772;Sexual;Noite;Recanto Vargas, 446;XX;Maria Cecília da Cruz;1;Mulher Cisgenero;Bissexual;Pardo;Ensino Medio Completo;Masculino
+773;Discriminacao;773;Fisica;Madrugada;Lagoa Maria Eduarda Macedo, 192;ES;Julia Albuquerque;139;Mulher Cisgenero;Pansexual;Pardo;Ensino Superior Incompleto;Feminino
+774;Violencia Domestica;774;Sexual;Madrugada;Vale Laura Rocha, 680;PB;Sra. Emanuelly Fonseca;33;Homem Cisgenero;Pansexual;Pardo;Ensino Medio Completo;Masculino
+775;Invalido;775;Sexual;Tarde;Núcleo Gustavo Henrique Gonçalves, 294;SE;Joaquim Cassiano;54;Homem Cisgenero;Heterossexual;Indigena;Ensino Medio Incompleto;Feminino
+776;Invalido;776;Psicologica;Manha;Chácara Júlia Cavalcanti, 292;AC;Sr. Davi Lucca Nascimento;56;Mulher Transgenero;Assexual;Indigena;Ensino Superior Incompleto;Masculino
+777;Invalido;777;Psicologica;Madrugada;Passarela Alves, 625;AM;Maria Albuquerque;44;Nao-Binario;Heterossexual;Amarelo;Ensino Fundamental Completo;Masculino
+778;Violencia Domestica;778;Psicologica;Manha;Quadra Alícia da Cruz, 1;CE;Yan Andrade;75;Mulher Cisgenero;Pansexual;Negro;Ensino Superior Incompleto;Masculino
+779;;779;Fisica;Noite;;;;49;;;;;
+780;Discriminacao;780;Sexual;Noite;Praça de Santos, 864;PI;Olivia Gonçalves;134;Homem Transgenero;Homossexual;Branco;Ensino Medio Incompleto;Feminino
+781;Discriminacao;781;Sexual;Madrugada;Parque Pires, 357;XX;Matheus Leão;58;Mulher Cisgenero;Pansexual;Branco;Pos-graduacao;Feminino
+782;;782;Patrimonial;Tarde;;;;32;;;;;
+783;Agressao;783;Patrimonial;Tarde;Sítio Oliveira, 877;ES;João Vitor Freitas;131;Nao-Binario;Heterossexual;Branco;Pos-graduacao;Masculino
+784;Discriminacao;784;Sexual;Manha;Trevo Mendonça, 478;MG;José Gomes;66;Mulher Transgenero;Heterossexual;Negro;Ensino Superior Completo;Feminino
+785;Invalido;785;Fisica;Manha;Favela Gustavo Ferreira, 64;CE;Maria Cecília Almeida;90;Homem Cisgenero;Bissexual;Branco;Ensino Fundamental Completo;Feminino
+786;Discriminacao;786;Patrimonial;Madrugada;Residencial Davi Luiz Cunha, 475;XX;Dra. Mariana da Paz;38;Mulher Transgenero;Homossexual;Indigena;Ensino Fundamental Completo;Feminino
+787;Invalido;787;Moral;Manha;Viela Lopes, 957;ES;Ana Beatriz Monteiro;50;Homem Cisgenero;Pansexual;Indigena;Ensino Superior Incompleto;Masculino
+788;Assedio;788;Moral;Madrugada;Pátio Pedro Pacheco, 927;PR;Sr. Arthur Miguel Nogueira;74;Mulher Transgenero;Assexual;Pardo;Pos-graduacao;Masculino
+789;Violencia Domestica;789;Sexual;Tarde;Alameda Igor Martins, 82;XX;Caleb Pinto;12;Mulher Cisgenero;Pansexual;Indigena;Ensino Medio Incompleto;Feminino
+790;;790;Patrimonial;Manha;;;;54;;;;;
+791;Agressao;791;Fisica;Noite;Setor Stella Pacheco, 945;XX;Davi Luiz Porto;87;Mulher Cisgenero;Bissexual;Negro;Ensino Fundamental Completo;Masculino
+792;Violencia Domestica;792;Psicologica;Noite;Viela Vinícius Fernandes, 464;SP;Maria Laura Teixeira;nan;Mulher Cisgenero;Pansexual;Branco;Ensino Medio Incompleto;Feminino
+793;Invalido;793;Sexual;Tarde;Distrito Lorena Lima, 949;GO;Joana Castro;55;Homem Cisgenero;Bissexual;Indigena;Ensino Medio Completo;Feminino
+794;Outros;794;Sexual;Manha;Viaduto Fonseca, 451;XX;Benjamin Ribeiro;39;Nao-Binario;Assexual;Indigena;Ensino Fundamental Completo;Feminino
+795;;795;Moral;Manha;;;;27;;;;;
+796;Invalido;796;Patrimonial;Tarde;Ladeira de Cirino, 766;PE;Benjamim Rocha;17;Homem Cisgenero;Assexual;Amarelo;Pos-graduacao;Masculino
+797;Invalido;797;Psicologica;Tarde;Distrito Cecilia Pimenta, 69;AC;Sophia Sampaio;94;Nao-Binario;Heterossexual;Indigena;Ensino Fundamental Incompleto;Feminino
+798;Assedio;798;Patrimonial;Tarde;Rodovia de Monteiro, 421;XX;Hellena Freitas;82;Mulher Cisgenero;Assexual;Negro;Pos-graduacao;Masculino
+799;;799;Patrimonial;Manha;;;;41;;;;;
+800;;800;Moral;Noite;;;;76;;;;;
+801;;801;Moral;Manha;;;;107;;;;;
+802;Invalido;802;Psicologica;Noite;Trevo de Jesus, 76;MG;Ágatha Gomes;42;Nao-Binario;Heterossexual;Pardo;Ensino Fundamental Completo;Feminino
+803;Agressao;803;Fisica;Tarde;Conjunto Almeida, 341;PB;Lavínia Melo;15;Mulher Cisgenero;Assexual;Amarelo;Ensino Medio Incompleto;Masculino
+804;;804;Patrimonial;Noite;;;;69;;;;;
+805;;805;Patrimonial;Noite;;;;110;;;;;
+806;;806;Moral;Tarde;;;;3;;;;;
+807;Invalido;807;Patrimonial;Madrugada;Trevo Pedro Cunha, 735;TO;Erick Borges;71;Mulher Cisgenero;Bissexual;Negro;Pos-graduacao;Masculino
+808;Assedio;808;Fisica;Noite;Recanto Pedro Lucas Jesus, 607;AL;Maria da Costa;152;Homem Transgenero;Heterossexual;Amarelo;Ensino Fundamental Completo;Masculino
+809;Agressao;809;Patrimonial;Manha;Parque Barros, 39;SC;Ana Sophia Moreira;71;Mulher Transgenero;Pansexual;Negro;Ensino Medio Incompleto;Masculino
+810;Violencia Domestica;810;Fisica;Manha;Viaduto de Porto, 225;XX;Laura Costela;43;Mulher Cisgenero;Pansexual;Negro;Ensino Fundamental Incompleto;Masculino
+811;Agressao;811;Moral;Noite;Distrito Maysa Melo, 253;PA;Zoe Martins;nan;Mulher Transgenero;Pansexual;Pardo;Ensino Superior Incompleto;Masculino
+812;Outros;812;Fisica;Manha;Fazenda Lorena Monteiro, 868;XX;Rhavi Moura;42;Nao-Binario;Homossexual;Amarelo;Ensino Medio Incompleto;Masculino
+813;Outros;813;Sexual;Madrugada;Rua de Machado, 220;XX;Laís Carvalho;77;Homem Transgenero;Assexual;Negro;Ensino Superior Incompleto;Feminino
+814;Invalido;814;Moral;Noite;Esplanada de Montenegro, 519;MG;Nathan Fonseca;42;Mulher Transgenero;Pansexual;Indigena;Ensino Fundamental Completo;Masculino
+815;;815;Fisica;Madrugada;;;;97;;;;;
+816;Outros;816;Patrimonial;Tarde;Colônia de da Mota, 427;XX;Srta. Liz Sá;81;Nao-Binario;Bissexual;Amarelo;Ensino Medio Completo;Masculino
+817;Invalido;817;Patrimonial;Manha;Pátio Ferreira, 734;ES;Luana da Mata;30;Mulher Cisgenero;Bissexual;Pardo;Ensino Superior Completo;Masculino
+818;Discriminacao;818;Fisica;Tarde;Jardim Pastor, 276;DF;Srta. Ana Beatriz Cirino;15;Homem Cisgenero;Assexual;Negro;Ensino Superior Incompleto;Feminino
+819;Outros;819;Psicologica;Noite;Largo Raul Ferreira, 974;XX;Noah Cirino;38;Mulher Cisgenero;Heterossexual;Pardo;Ensino Fundamental Incompleto;Feminino
+820;;820;Moral;Manha;;;;35;;;;;
+821;Violencia Domestica;821;Sexual;Manha;Colônia Rodrigues, 582;DF;Maria Alice Caldeira;nan;Homem Transgenero;Bissexual;Amarelo;Ensino Medio Completo;Feminino
+822;;822;Moral;Manha;;;;41;;;;;
+823;;823;Sexual;Manha;;;;14;;;;;
+824;Discriminacao;824;Patrimonial;Manha;Vila da Paz, 397;XX;Sr. Davi Lucas Câmara;47;Mulher Transgenero;Bissexual;Negro;Ensino Superior Incompleto;Feminino
+825;Discriminacao;825;Patrimonial;Tarde;Estrada de Almeida, 935;AP;Ian Fogaça;21;Nao-Binario;Heterossexual;Pardo;Ensino Fundamental Incompleto;Feminino
+826;Invalido;826;Sexual;Manha;Chácara Pacheco, 555;RN;Mateus Vieira;16;Mulher Cisgenero;Homossexual;Amarelo;Ensino Superior Incompleto;Masculino
+827;Discriminacao;827;Patrimonial;Madrugada;Pátio Cunha, 820;PI;João Macedo;176;Mulher Cisgenero;Heterossexual;Amarelo;Ensino Superior Completo;Masculino
+828;Agressao;828;Fisica;Tarde;Conjunto da Mata, 903;RJ;Cecilia Ramos;77;Nao-Binario;Heterossexual;Indigena;Ensino Superior Incompleto;Masculino
+829;Violencia Domestica;829;Sexual;Manha;Jardim Aylla Machado, 730;PE;Milena Farias;197;Mulher Transgenero;Heterossexual;Branco;Ensino Superior Incompleto;Feminino
+830;Agressao;830;Psicologica;Tarde;Colônia de Câmara, 982;XX;Srta. Luiza Rezende;96;Mulher Cisgenero;Homossexual;Amarelo;Ensino Fundamental Completo;Feminino
+831;Outros;831;Psicologica;Madrugada;Viaduto Maria Liz Nascimento, 752;RR;Sra. Maria Júlia Santos;16;Mulher Transgenero;Heterossexual;Branco;Ensino Superior Completo;Masculino
+832;Invalido;832;Fisica;Manha;Feira de Macedo, 430;ES;Danilo Farias;67;Nao-Binario;Assexual;Amarelo;Ensino Superior Completo;Masculino
+833;;833;Fisica;Tarde;;;;103;;;;;
+834;;834;Moral;Madrugada;;;;55;;;;;
+835;Invalido;835;Sexual;Tarde;Setor da Mota, 188;RS;Allana Rios;86;Mulher Transgenero;Pansexual;Negro;Ensino Fundamental Incompleto;Feminino
+836;Assedio;836;Sexual;Noite;Passarela de Viana, 781;AL;Luiz Gustavo Sales;181;Homem Transgenero;Pansexual;Negro;Ensino Superior Completo;Masculino
+837;;837;Moral;Manha;;;;15;;;;;
+838;Discriminacao;838;Moral;Noite;Vereda de Barbosa, 18;XX;Antônio Machado;46;Nao-Binario;Bissexual;Branco;Ensino Fundamental Incompleto;Feminino
+839;Assedio;839;Psicologica;Manha;Feira de Correia, 393;CE;João Guilherme Cunha;79;Mulher Cisgenero;Heterossexual;Amarelo;Ensino Medio Completo;Feminino
+840;Agressao;840;Fisica;Noite;Quadra da Conceição, 617;MT;Vitor das Neves;63;Nao-Binario;Assexual;Negro;Ensino Medio Incompleto;Feminino
+841;Assedio;841;Fisica;Manha;Estrada de Jesus, 358;XX;Sr. Oliver Mendes;17;Homem Cisgenero;Pansexual;Amarelo;Pos-graduacao;Feminino
+842;Assedio;842;Moral;Manha;Praia Cassiano, 813;AC;Théo Sousa;121;Mulher Transgenero;Pansexual;Indigena;Ensino Superior Completo;Feminino
+843;Assedio;843;Patrimonial;Madrugada;Praça de Costela, 49;XX;Maria Julia Viana;103;Homem Transgenero;Bissexual;Indigena;Ensino Fundamental Completo;Masculino
+844;;844;Sexual;Tarde;;;;4;;;;;
+845;Discriminacao;845;Sexual;Madrugada;Área Maria Clara Camargo, 821;XX;Vinícius Pastor;99;Mulher Transgenero;Assexual;Indigena;Pos-graduacao;Feminino
+846;Discriminacao;846;Patrimonial;Tarde;Setor de Lopes, 337;TO;Antonella Cavalcanti;nan;Homem Cisgenero;Bissexual;Amarelo;Ensino Medio Completo;Feminino
+847;Invalido;847;Sexual;Noite;Avenida Ester Novais, 36;MG;Vinícius Barros;71;Homem Cisgenero;Heterossexual;Negro;Ensino Fundamental Completo;Masculino
+848;Agressao;848;Patrimonial;Tarde;Colônia Viana, 399;SP;Lorena Costa;158;Mulher Transgenero;Assexual;Pardo;Ensino Superior Incompleto;Feminino
+849;Agressao;849;Psicologica;Madrugada;Praia Borges, 688;BA;Rafaela Ramos;140;Mulher Transgenero;Heterossexual;Indigena;Ensino Superior Incompleto;Feminino
+850;Violencia Domestica;850;Psicologica;Madrugada;Morro de da Cunha, 769;GO;José Pedro Cavalcanti;151;Homem Transgenero;Pansexual;Negro;Pos-graduacao;Masculino
+851;Outros;851;Sexual;Madrugada;Travessa Ágatha Leão, 518;XX;Dr. Matheus Caldeira;61;Mulher Cisgenero;Pansexual;Pardo;Ensino Fundamental Completo;Masculino
+852;Outros;852;Moral;Tarde;Esplanada da Rosa, 942;XX;Pedro Henrique Castro;71;Homem Cisgenero;Bissexual;Negro;Ensino Superior Completo;Feminino
+853;Agressao;853;Fisica;Noite;Alameda Vitor Gabriel Lima, 591;XX;Matheus das Neves;32;Nao-Binario;Homossexual;Pardo;Ensino Fundamental Incompleto;Masculino
+854;Invalido;854;Moral;Madrugada;Aeroporto Câmara, 392;RJ;Isabelly Sampaio;107;Mulher Transgenero;Bissexual;Negro;Ensino Medio Incompleto;Masculino
+855;Agressao;855;Psicologica;Noite;Campo de Nascimento, 306;SP;João Felipe Dias;72;Mulher Transgenero;Bissexual;Pardo;Ensino Superior Completo;Feminino
+856;Agressao;856;Patrimonial;Noite;Alameda Macedo, 262;TO;Maria Vitória Siqueira;67;Mulher Transgenero;Bissexual;Pardo;Ensino Superior Incompleto;Masculino
+857;Violencia Domestica;857;Patrimonial;Madrugada;Área de Silveira, 440;ES;Bárbara da Mata;nan;Nao-Binario;Homossexual;Amarelo;Ensino Superior Completo;Masculino
+858;Assedio;858;Psicologica;Noite;Rua da Mota, 950;AP;Anthony Gabriel Pereira;9;Mulher Transgenero;Bissexual;Negro;Ensino Medio Completo;Feminino
+859;Invalido;859;Moral;Noite;Trevo Luiza Duarte, 805;PA;Laís Borges;71;Homem Transgenero;Heterossexual;Pardo;Ensino Medio Incompleto;Feminino
+860;Agressao;860;Fisica;Noite;Trecho Ribeiro, 732;MS;Olívia Nunes;nan;Mulher Cisgenero;Assexual;Indigena;Ensino Medio Incompleto;Masculino
+861;Discriminacao;861;Moral;Noite;Passarela de Ribeiro, 451;RN;Stella Nunes;nan;Homem Transgenero;Heterossexual;Negro;Ensino Superior Incompleto;Feminino
+862;Discriminacao;862;Sexual;Noite;Condomínio Maya Casa Grande, 303;MG;Lorenzo da Conceição;87;Nao-Binario;Bissexual;Negro;Ensino Fundamental Incompleto;Masculino
+863;Assedio;863;Moral;Madrugada;Estrada de Vieira, 307;AC;Dr. José Miguel Fernandes;9;Nao-Binario;Assexual;Pardo;Ensino Fundamental Incompleto;Feminino
+864;Assedio;864;Patrimonial;Tarde;Colônia Martins, 223;PR;Sra. Melissa Sá;17;Homem Cisgenero;Heterossexual;Amarelo;Ensino Medio Completo;Masculino
+865;;865;Moral;Madrugada;;;;49;;;;;
+866;;866;Fisica;Noite;;;;98;;;;;
+867;Invalido;867;Patrimonial;Tarde;Esplanada de da Conceição, 128;BA;Srta. Allana Pereira;37;Nao-Binario;Homossexual;Negro;Pos-graduacao;Masculino
+868;Invalido;868;Moral;Tarde;Área Pires, 859;RS;Yan Fernandes;71;Homem Cisgenero;Bissexual;Amarelo;Ensino Fundamental Completo;Feminino
+869;Outros;869;Sexual;Tarde;Aeroporto de Rodrigues, 676;MT;Eduardo Moura;152;Mulher Transgenero;Homossexual;Negro;Ensino Medio Completo;Feminino
+870;Invalido;870;Patrimonial;Noite;Estrada João Gabriel Gonçalves, 704;SP;Vinícius Gomes;49;Nao-Binario;Bissexual;Pardo;Ensino Superior Incompleto;Masculino
+871;;871;Fisica;Manha;;;;42;;;;;
+872;Discriminacao;872;Sexual;Tarde;Núcleo Esther Moreira, 190;XX;Leandro Pacheco;27;Mulher Transgenero;Bissexual;Pardo;Ensino Fundamental Incompleto;Feminino
+873;Agressao;873;Sexual;Noite;Praia de Almeida, 957;PA;Ana Beatriz Rezende;nan;Mulher Cisgenero;Heterossexual;Amarelo;Ensino Fundamental Completo;Feminino
+874;Discriminacao;874;Psicologica;Noite;Loteamento de Rezende, 266;PI;Dr. Henry Cardoso;nan;Mulher Cisgenero;Pansexual;Amarelo;Ensino Fundamental Completo;Feminino
+875;Violencia Domestica;875;Sexual;Manha;Quadra de Sales, 82;XX;Ian Aragão;41;Nao-Binario;Homossexual;Negro;Ensino Medio Incompleto;Feminino
+876;;876;Psicologica;Tarde;;;;83;;;;;
+877;Agressao;877;Fisica;Noite;Via Ágatha Aparecida, 930;CE;Lorena Ramos;44;Homem Transgenero;Homossexual;Negro;Ensino Superior Completo;Feminino
+878;;878;Psicologica;Noite;;;;70;;;;;
+879;Violencia Domestica;879;Psicologica;Manha;Passarela Maria Alice Correia, 610;BA;Sra. Mirella Melo;131;Homem Transgenero;Homossexual;Indigena;Ensino Medio Completo;Feminino
+880;Assedio;880;Fisica;Tarde;Sítio de Freitas, 705;PB;Letícia Cavalcanti;181;Homem Transgenero;Homossexual;Pardo;Pos-graduacao;Masculino
+881;Invalido;881;Psicologica;Manha;Alameda João Vasconcelos, 973;MG;Giovanna Pimenta;107;Homem Transgenero;Assexual;Branco;Ensino Fundamental Incompleto;Feminino
+882;Invalido;882;Moral;Tarde;Lago Carvalho, 733;RJ;Ana Cecília Moreira;13;Mulher Transgenero;Heterossexual;Pardo;Ensino Medio Incompleto;Masculino
+883;;883;Sexual;Tarde;;;;91;;;;;
+884;Outros;884;Patrimonial;Madrugada;Passarela de Fogaça, 594;XX;Srta. Julia Ribeiro;100;Nao-Binario;Homossexual;Negro;Ensino Superior Completo;Feminino
+885;Assedio;885;Sexual;Noite;Residencial Leonardo Fogaça, 361;MA;Dr. Luigi Viana;58;Homem Transgenero;Heterossexual;Indigena;Pos-graduacao;Masculino
+886;;886;Sexual;Manha;;;;27;;;;;
+887;Invalido;887;Moral;Noite;Trevo Freitas, 423;TO;Brayan Pacheco;22;Mulher Transgenero;Pansexual;Amarelo;Ensino Medio Completo;Masculino
+888;Outros;888;Patrimonial;Manha;Feira Nogueira, 200;SE;Bianca Araújo;nan;Mulher Transgenero;Bissexual;Branco;Ensino Medio Incompleto;Feminino
+889;Agressao;889;Patrimonial;Tarde;Chácara de Casa Grande, 324;XX;Yago Cirino;35;Mulher Cisgenero;Homossexual;Indigena;Ensino Medio Incompleto;Masculino
+890;Violencia Domestica;890;Fisica;Madrugada;Jardim Martins, 677;RR;Pedro Lucas Marques;nan;Homem Transgenero;Assexual;Pardo;Pos-graduacao;Masculino
+891;Violencia Domestica;891;Psicologica;Tarde;Travessa Brito, 541;RJ;Danilo Jesus;170;Mulher Cisgenero;Heterossexual;Pardo;Ensino Medio Incompleto;Feminino
+892;Discriminacao;892;Psicologica;Tarde;Estrada Mendes, 329;XX;Lucas Gabriel da Mata;65;Mulher Transgenero;Heterossexual;Branco;Pos-graduacao;Feminino
+893;Discriminacao;893;Moral;Noite;Travessa de Porto, 66;PR;Dr. Enzo Vasconcelos;nan;Nao-Binario;Homossexual;Negro;Ensino Fundamental Completo;Feminino
+894;Outros;894;Fisica;Manha;Aeroporto Câmara, 281;MA;Evelyn Cunha;53;Nao-Binario;Homossexual;Pardo;Ensino Fundamental Completo;Masculino
+895;;895;Sexual;Tarde;;;;72;;;;;
+896;Outros;896;Fisica;Madrugada;Trevo Albuquerque, 259;AP;Maria Nascimento;174;Nao-Binario;Heterossexual;Pardo;Ensino Superior Incompleto;Masculino
+897;Agressao;897;Moral;Tarde;Rua Brito, 641;XX;Diogo Araújo;53;Mulher Transgenero;Pansexual;Indigena;Ensino Fundamental Completo;Feminino
+898;Invalido;898;Fisica;Tarde;Vereda de Borges, 310;AC;Srta. Maria Alice Melo;32;Homem Cisgenero;Assexual;Indigena;Ensino Medio Completo;Feminino
+899;;899;Patrimonial;Noite;;;;37;;;;;
+900;;900;Fisica;Manha;;;;3;;;;;
+901;Outros;901;Psicologica;Tarde;Passarela Montenegro, 830;SP;Anna Liz Pimenta;28;Mulher Transgenero;Bissexual;Negro;Ensino Superior Completo;Masculino
+902;Violencia Domestica;902;Fisica;Madrugada;Chácara de Porto, 209;PB;Bella Pires;nan;Homem Transgenero;Heterossexual;Amarelo;Pos-graduacao;Masculino
+903;Outros;903;Patrimonial;Manha;Sítio Costa, 87;PE;Luiz Otávio Viana;192;Nao-Binario;Homossexual;Amarelo;Ensino Superior Incompleto;Feminino
+904;;904;Fisica;Tarde;;;;35;;;;;
+905;Invalido;905;Patrimonial;Tarde;Trevo João Gabriel Costa, 750;AM;Ana Julia Cardoso;20;Mulher Cisgenero;Pansexual;Negro;Ensino Fundamental Completo;Feminino
+906;Invalido;906;Sexual;Tarde;Lagoa Amanda Moraes, 502;PE;Hadassa Pimenta;11;Homem Cisgenero;Bissexual;Branco;Ensino Superior Incompleto;Masculino
+907;Discriminacao;907;Sexual;Noite;Condomínio Bella Campos, 48;SP;Bruna Castro;81;Mulher Cisgenero;Pansexual;Pardo;Ensino Fundamental Incompleto;Feminino
+908;;908;Moral;Noite;;;;47;;;;;
+909;Invalido;909;Sexual;Manha;Área Mateus Alves, 708;PE;Bento Novaes;2;Mulher Cisgenero;Bissexual;Negro;Ensino Medio Incompleto;Feminino
+910;Invalido;910;Fisica;Madrugada;Rodovia Samuel Farias, 367;AM;Juliana Cirino;5;Mulher Cisgenero;Pansexual;Negro;Ensino Fundamental Completo;Feminino
+911;Invalido;911;Fisica;Tarde;Viaduto Kaique Correia, 751;CE;Antonella Ribeiro;89;Mulher Cisgenero;Assexual;Amarelo;Ensino Superior Completo;Masculino
+912;Outros;912;Fisica;Tarde;Parque Araújo, 9;XX;Luan Farias;58;Homem Transgenero;Heterossexual;Negro;Ensino Medio Completo;Masculino
+913;Assedio;913;Patrimonial;Noite;Largo de Moraes, 378;PB;Sr. Luiz Henrique Gomes;158;Homem Cisgenero;Assexual;Pardo;Ensino Superior Completo;Feminino
+914;Invalido;914;Sexual;Manha;Trecho Carvalho, 452;SP;Benjamim Vieira;95;Mulher Transgenero;Heterossexual;Negro;Ensino Superior Incompleto;Feminino
+915;;915;Sexual;Madrugada;;;;51;;;;;
+916;Outros;916;Moral;Tarde;Trecho Isabella Macedo, 890;PA;João Vitor Marques;nan;Mulher Transgenero;Bissexual;Indigena;Ensino Superior Incompleto;Feminino
+917;Invalido;917;Fisica;Noite;Colônia Aragão, 976;PR;Gabriel Peixoto;41;Mulher Transgenero;Heterossexual;Indigena;Ensino Superior Incompleto;Feminino
+918;Invalido;918;Patrimonial;Tarde;Conjunto de Pastor, 244;RO;Gabriel Nascimento;47;Homem Transgenero;Heterossexual;Amarelo;Ensino Medio Completo;Feminino
+919;Discriminacao;919;Fisica;Madrugada;Passarela de Fernandes, 284;SP;Raul Costa;2;Nao-Binario;Pansexual;Indigena;Ensino Medio Incompleto;Feminino
+920;;920;Sexual;Madrugada;;;;83;;;;;
+921;;921;Patrimonial;Tarde;;;;19;;;;;
+922;Assedio;922;Psicologica;Manha;Sítio Vasconcelos, 819;RR;Manuela Souza;66;Homem Transgenero;Homossexual;Negro;Pos-graduacao;Masculino
+923;Outros;923;Fisica;Tarde;Vereda de Rezende, 319;MA;Cecilia Fonseca;nan;Mulher Cisgenero;Assexual;Amarelo;Ensino Fundamental Completo;Feminino
+924;Invalido;924;Psicologica;Tarde;Ladeira Brayan Rodrigues, 734;RN;Maria Luísa Nogueira;27;Mulher Cisgenero;Heterossexual;Branco;Pos-graduacao;Feminino
+925;Violencia Domestica;925;Fisica;Noite;Jardim das Neves, 692;XX;Murilo Vargas;96;Nao-Binario;Heterossexual;Branco;Ensino Medio Incompleto;Masculino
+926;Invalido;926;Psicologica;Noite;Jardim Sarah Fernandes, 264;PR;Helena da Cunha;21;Homem Transgenero;Assexual;Indigena;Ensino Medio Incompleto;Masculino
+927;Agressao;927;Fisica;Noite;Trecho Carlos Eduardo Correia, 861;PI;Sr. Luiz Henrique Andrade;nan;Homem Cisgenero;Assexual;Branco;Ensino Superior Completo;Feminino
+928;Outros;928;Fisica;Noite;Colônia Caroline Garcia, 39;AL;Cecilia Sá;194;Nao-Binario;Heterossexual;Negro;Ensino Medio Completo;Feminino
+929;Assedio;929;Fisica;Manha;Lago Emilly Cavalcanti, 499;XX;Lorenzo Monteiro;22;Mulher Cisgenero;Assexual;Amarelo;Pos-graduacao;Masculino
+930;Discriminacao;930;Patrimonial;Manha;Lagoa Rocha, 694;RR;Sr. João Miguel Vargas;162;Homem Cisgenero;Bissexual;Pardo;Ensino Superior Completo;Feminino
+931;Outros;931;Psicologica;Noite;Morro de Cunha, 512;PR;Théo Costa;37;Mulher Cisgenero;Heterossexual;Negro;Ensino Superior Completo;Feminino
+932;;932;Moral;Tarde;;;;10;;;;;
+933;Invalido;933;Moral;Tarde;Loteamento Costa, 136;AL;Vinícius Jesus;74;Mulher Cisgenero;Assexual;Pardo;Ensino Superior Incompleto;Feminino
+934;Discriminacao;934;Fisica;Noite;Conjunto Oliveira, 390;RR;Apollo Pires;103;Homem Cisgenero;Heterossexual;Indigena;Ensino Medio Incompleto;Masculino
+935;Invalido;935;Moral;Tarde;Lagoa Ana Julia Garcia, 96;MT;Anna Liz da Rocha;97;Nao-Binario;Assexual;Branco;Ensino Fundamental Completo;Masculino
+936;Agressao;936;Patrimonial;Noite;Aeroporto Vitor Hugo da Luz, 177;SP;Isabela Correia;41;Homem Transgenero;Assexual;Amarelo;Ensino Fundamental Completo;Feminino
+937;Violencia Domestica;937;Sexual;Noite;Jardim de Cavalcanti, 631;MT;Sra. Maria Laura Brito;66;Mulher Cisgenero;Pansexual;Indigena;Pos-graduacao;Feminino
+938;Assedio;938;Fisica;Tarde;Estrada Moreira, 148;MG;Cecília Santos;nan;Nao-Binario;Homossexual;Pardo;Ensino Medio Incompleto;Feminino
+939;Outros;939;Moral;Noite;Distrito Camargo, 559;AL;Dra. Sophia Albuquerque;nan;Mulher Transgenero;Pansexual;Indigena;Ensino Fundamental Completo;Feminino
+940;Outros;940;Patrimonial;Madrugada;Lago Anthony Gabriel Cavalcanti, 954;XX;Maya Cassiano;104;Mulher Cisgenero;Pansexual;Amarelo;Pos-graduacao;Feminino
+941;Agressao;941;Psicologica;Noite;Distrito de Teixeira, 814;XX;Valentina Vargas;70;Homem Cisgenero;Homossexual;Branco;Ensino Superior Completo;Masculino
+942;Agressao;942;Fisica;Manha;Chácara de Pinto, 269;GO;Ian da Rosa;nan;Homem Cisgenero;Homossexual;Branco;Ensino Superior Incompleto;Masculino
+943;Assedio;943;Moral;Manha;Viaduto de Rios, 716;SC;Helena Carvalho;94;Homem Cisgenero;Heterossexual;Indigena;Ensino Superior Completo;Feminino
+944;Assedio;944;Psicologica;Tarde;Campo Yago Pimenta, 634;TO;Ian da Costa;31;Homem Transgenero;Homossexual;Indigena;Pos-graduacao;Feminino
+945;Agressao;945;Fisica;Noite;Estação de Machado, 751;BA;Milena Cirino;nan;Nao-Binario;Pansexual;Amarelo;Ensino Superior Completo;Feminino
+946;;946;Fisica;Madrugada;;;;50;;;;;
+947;Invalido;947;Moral;Tarde;Aeroporto Carolina da Rosa, 517;TO;Josué Pimenta;11;Homem Transgenero;Heterossexual;Amarelo;Ensino Fundamental Completo;Masculino
+948;;948;Sexual;Manha;;;;110;;;;;
+949;Assedio;949;Patrimonial;Manha;Loteamento Maysa da Mota, 643;PR;Bárbara Pereira;73;Mulher Transgenero;Heterossexual;Pardo;Ensino Superior Completo;Feminino
+950;Invalido;950;Sexual;Tarde;Estrada de Moraes, 141;RN;Sra. Alícia Araújo;25;Homem Transgenero;Bissexual;Branco;Ensino Medio Completo;Feminino
+951;Invalido;951;Sexual;Manha;Campo Pimenta, 177;MS;Hellena Cardoso;66;Homem Cisgenero;Bissexual;Negro;Ensino Medio Completo;Masculino
+952;Discriminacao;952;Psicologica;Manha;Quadra de Câmara, 479;SC;Sarah da Luz;nan;Homem Cisgenero;Bissexual;Amarelo;Ensino Fundamental Incompleto;Masculino
+953;Agressao;953;Psicologica;Tarde;Feira Liam Pastor, 248;AL;Sr. Ravi Ferreira;nan;Nao-Binario;Assexual;Negro;Ensino Superior Incompleto;Feminino
+954;;954;Moral;Tarde;;;;5;;;;;
+955;;955;Sexual;Manha;;;;52;;;;;
+956;Invalido;956;Sexual;Manha;Feira de Marques, 146;RO;Marcelo Fernandes;22;Homem Cisgenero;Pansexual;Amarelo;Ensino Superior Completo;Feminino
+957;Violencia Domestica;957;Moral;Madrugada;Alameda Almeida, 104;MT;Nathan Alves;nan;Homem Transgenero;Pansexual;Indigena;Ensino Superior Completo;Masculino
+958;Assedio;958;Sexual;Noite;Jardim Heitor Duarte, 499;AC;Dr. Luiz Gustavo Rodrigues;51;Homem Transgenero;Homossexual;Pardo;Ensino Superior Completo;Masculino
+959;Invalido;959;Psicologica;Manha;Quadra de Moreira, 445;MS;Gabrielly Freitas;81;Mulher Transgenero;Assexual;Pardo;Ensino Superior Completo;Masculino
+960;Invalido;960;Sexual;Noite;Passarela Davi Luiz Brito, 48;DF;Dra. Isabelly Brito;28;Homem Cisgenero;Bissexual;Pardo;Ensino Medio Completo;Feminino
+961;Violencia Domestica;961;Moral;Noite;Viaduto Luiz Miguel Ribeiro, 545;CE;Luigi Duarte;nan;Mulher Cisgenero;Homossexual;Negro;Ensino Fundamental Incompleto;Masculino
+962;;962;Fisica;Noite;;;;2;;;;;
+963;;963;Sexual;Noite;;;;89;;;;;
+964;;964;Sexual;Tarde;;;;17;;;;;
+965;Agressao;965;Sexual;Noite;Viaduto Marques, 56;XX;Dr. Yago Cavalcanti;76;Mulher Transgenero;Pansexual;Pardo;Pos-graduacao;Masculino
+966;Discriminacao;966;Fisica;Madrugada;Avenida de Mendes, 306;AL;Guilherme Azevedo;nan;Homem Transgenero;Heterossexual;Negro;Ensino Fundamental Completo;Masculino
+967;Invalido;967;Fisica;Manha;Passarela Silveira, 825;ES;Rafael Cardoso;50;Homem Cisgenero;Bissexual;Amarelo;Ensino Fundamental Completo;Masculino
+968;Invalido;968;Sexual;Manha;Residencial de Sousa, 855;SP;João Lucas Fogaça;75;Homem Transgenero;Bissexual;Indigena;Ensino Fundamental Completo;Feminino
+969;Assedio;969;Psicologica;Noite;Largo Yasmin Melo, 334;XX;Henry Gabriel Cassiano;40;Nao-Binario;Homossexual;Negro;Ensino Fundamental Incompleto;Feminino
+970;Violencia Domestica;970;Psicologica;Manha;Quadra de Porto, 133;DF;Maria Júlia Cassiano;nan;Homem Transgenero;Pansexual;Negro;Ensino Medio Completo;Masculino
+971;Agressao;971;Fisica;Manha;Quadra de da Rocha, 293;DF;Ana Cecília Vargas;148;Nao-Binario;Assexual;Branco;Ensino Medio Incompleto;Masculino
+972;Assedio;972;Psicologica;Madrugada;Praça Oliveira, 421;SP;Oliver Silveira;13;Mulher Transgenero;Heterossexual;Negro;Ensino Medio Incompleto;Feminino
+973;Violencia Domestica;973;Psicologica;Tarde;Estação Mendonça, 770;XX;Júlia Moura;89;Nao-Binario;Bissexual;Negro;Pos-graduacao;Masculino
+974;Assedio;974;Patrimonial;Tarde;Vila Esther Novais, 650;PA;Leonardo Cardoso;163;Mulher Cisgenero;Bissexual;Negro;Ensino Fundamental Incompleto;Feminino
+975;Outros;975;Sexual;Noite;Trecho de Rodrigues, 543;XX;Theo da Cunha;27;Homem Cisgenero;Homossexual;Indigena;Ensino Fundamental Incompleto;Masculino
+976;Invalido;976;Fisica;Noite;Viaduto Lima, 278;RO;Dr. Calebe Silveira;12;Homem Cisgenero;Heterossexual;Indigena;Ensino Medio Completo;Masculino
+977;;977;Moral;Noite;;;;33;;;;;
+978;;978;Moral;Tarde;;;;38;;;;;
+979;Agressao;979;Fisica;Tarde;Distrito de Fernandes, 172;RO;Maria Flor Novaes;94;Mulher Transgenero;Homossexual;Indigena;Ensino Medio Completo;Feminino
+980;Violencia Domestica;980;Psicologica;Manha;Chácara José Miguel Macedo, 706;AL;Sra. Luiza Cunha;90;Homem Transgenero;Pansexual;Branco;Ensino Fundamental Completo;Masculino
+981;Invalido;981;Fisica;Manha;Distrito Isabel Novaes, 656;AL;Ayla Macedo;53;Mulher Cisgenero;Homossexual;Negro;Ensino Fundamental Incompleto;Feminino
+982;Violencia Domestica;982;Psicologica;Tarde;Lago Castro, 917;XX;José Pedro Barros;81;Mulher Transgenero;Heterossexual;Negro;Pos-graduacao;Feminino
+983;Outros;983;Moral;Madrugada;Campo Caldeira, 989;XX;Alexandre Macedo;99;Nao-Binario;Homossexual;Indigena;Ensino Superior Completo;Feminino
+984;Outros;984;Psicologica;Noite;Rodovia Sousa, 191;CE;Mathias da Luz;108;Mulher Cisgenero;Bissexual;Amarelo;Pos-graduacao;Feminino
+985;Discriminacao;985;Moral;Manha;Jardim Enzo Duarte, 885;PA;Isis Brito;33;Homem Cisgenero;Heterossexual;Branco;Ensino Medio Completo;Masculino
+986;Invalido;986;Sexual;Noite;Vale Maria Alice Santos, 722;PR;Dante Santos;67;Mulher Transgenero;Bissexual;Negro;Ensino Fundamental Completo;Masculino
+987;;987;Psicologica;Noite;;;;1;;;;;
+988;Discriminacao;988;Psicologica;Noite;Campo de Vieira, 358;AP;Raquel Camargo;142;Nao-Binario;Pansexual;Indigena;Ensino Medio Incompleto;Feminino
+989;;989;Sexual;Madrugada;;;;101;;;;;
+990;Discriminacao;990;Patrimonial;Noite;Condomínio de Fernandes, 882;AC;Emanuel Campos;45;Homem Cisgenero;Assexual;Branco;Ensino Superior Incompleto;Masculino
+991;Assedio;991;Patrimonial;Manha;Trevo Gustavo Cavalcanti, 407;DF;Antony Azevedo;99;Nao-Binario;Homossexual;Amarelo;Ensino Superior Incompleto;Masculino
+992;Assedio;992;Sexual;Manha;Feira de da Rosa, 437;PR;Sra. Nina Gonçalves;105;Nao-Binario;Pansexual;Amarelo;Ensino Superior Incompleto;Feminino
+993;Agressao;993;Moral;Tarde;Trevo Albuquerque, 684;TO;Sra. Maria Fernanda Lopes;83;Mulher Cisgenero;Bissexual;Pardo;Ensino Fundamental Incompleto;Feminino
+994;;994;Psicologica;Tarde;;;;38;;;;;
+995;Assedio;995;Moral;Tarde;Via de Campos, 22;PR;Srta. Ana Júlia Ramos;25;Homem Cisgenero;Heterossexual;Amarelo;Pos-graduacao;Feminino
+996;Discriminacao;996;Fisica;Tarde;Viaduto de Moura, 261;ES;Ryan Leão;23;Mulher Transgenero;Assexual;Amarelo;Ensino Superior Incompleto;Feminino
+997;Violencia Domestica;997;Patrimonial;Madrugada;Rodovia Daniela Gonçalves, 843;AP;Isaque Azevedo;18;Mulher Cisgenero;Homossexual;Amarelo;Ensino Medio Incompleto;Masculino
+998;;998;Patrimonial;Tarde;;;;23;;;;;
+999;Invalido;999;Sexual;Madrugada;Pátio de das Neves, 323;ES;Josué Ribeiro;54;Nao-Binario;Bissexual;Pardo;Ensino Fundamental Incompleto;Feminino
+1000;Violencia Domestica;1000;Sexual;Manha;Viela de da Luz, 197;XX;Maria Fernanda da Mota;55;Nao-Binario;Heterossexual;Pardo;Ensino Fundamental Incompleto;Masculino
