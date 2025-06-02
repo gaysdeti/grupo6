@@ -2,8 +2,8 @@ FROM python:3.10-slim
 
 WORKDIR /app
 
-COPY . .
+COPY . /app
 
-RUN pip install pandas matplotlib scikit-learn seaborn
+RUN pip install pandas matplotlib seaborn
 
-CMD ["sleep", "infinity"]
+CMD ["python", "graficos.py"]

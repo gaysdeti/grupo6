@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Gráficos do Projeto</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background: #f4f4f4; }
+        h1 { margin-top: 20px; }
+        img { max-width: 80%; margin: 20px auto; border: 1px solid #ccc; background: white; padding: 10px; }
+        p { color: #666; font-style: italic; }
+    </style>
+</head>
+<body>
+    <h1>Gráficos Gerados</h1>
+
+    {% if imagens %}
+        {% for imagem in imagens %}
+            <div>
+                <img src="{{ url_for('servir_imagem', filename=imagem) }}" alt="{{ imagem }}">
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>Nenhum gráfico foi encontrado no momento.</p>
+    {% endif %}
+
+</body>
+</html>

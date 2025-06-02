@@ -60,7 +60,7 @@ def gerar_dados(qtd=1000):
 dados = gerar_dados(1000)
 
 # Nome fixo para sobrescrever o mesmo arquivo
-arquivo_nome = "dados_denuncia.csv"
+arquivo_nome = "/app/dados/dados_denuncia.csv"
 
 # Criando arquivo CSV
 with open(arquivo_nome, "w", newline="", encoding="utf-8") as arquivo:

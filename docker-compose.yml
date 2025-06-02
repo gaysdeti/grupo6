@@ -1,38 +1,38 @@
-version: '3.8'
-
 services:
   gerador:
     build: ./gerador
     volumes:
-      - ./gerador:/app
+      - ./dados:/app/dados
+      - dados_compartilhados:/app/dados
     command: python gerador.py
     restart: unless-stopped
 
   tratamento:
     build: ./tratamento
     volumes:
-      - ./tratamento:/app
+      - ./dados:/app/dados
+      - dados_compartilhados:/app/dados
     command: Rscript tratamento.R
-    depends_on:
-      - gerador
     restart: unless-stopped
 
   analise:
     build: ./analise
     volumes:
-      - ./analise:/app
-    # Adicione um script de execução se houver (ex: grafico.py)
+      - ./dados:/app/dados
+      - dados_compartilhados:/app/dados
+    command: python graficos.py
     restart: unless-stopped
 
   web:
     build: ./web
-    volumes:
-      - ./web:/app
-    command: python app.py
     ports:
       - "5000:5000"
     depends_on:
       - analise
+    volumes:
+      - ./web:/app
+      - dados_compartilhados:/app/dados
+    command: python app.py
     restart: unless-stopped
 
   jenkins:
@@ -41,7 +41,35 @@ services:
       - "8080:8080"
     volumes:
       - jenkins_home:/var/jenkins_home
+      - /var/run/docker.sock:/var/run/docker.sock 
     restart: unless-stopped
+
+  prometheus:
+    image: prom/prometheus
+    volumes:
+      - ./prometheus/prometheus.yml:/etc/prometheus/prometheus.yml
+    ports:
+      - "9090:9090"
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana
+    ports:
+      - "3000:3000"
+    restart: unless-stopped
+
+  cadvisor:
+    image: gcr.io/cadvisor/cadvisor:latest
+    ports:
+      - "8081:8080"
+    volumes:
+      - /:/rootfs:ro
+      - /var/run:/var/run:ro
+      - /sys:/sys:ro
+      - /var/lib/docker/:/var/lib/docker:ro
+    restart: unless-stopped
+
 
 volumes:
   jenkins_home:
+  dados_compartilhados:

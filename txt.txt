@@ -1,0 +1,49 @@
+version: '3.9'
+
+services:
+  gerador:
+    build: ./gerador
+    volumes:
+      - ./dados:/app/dados
+      - dados_compartilhados:/app/compartilhado
+    command: python gerador.py
+    restart: unless-stopped
+
+  tratamento:
+    build: ./tratamento
+    volumes:
+      - ./dados:/app/dados
+      - dados_compartilhados:/app/compartilhado
+    command: Rscript tratamento.R
+    restart: unless-stopped
+
+  analise:
+    build: ./analise
+    volumes:
+      - ./analise:/app
+      - dados_compartilhados:/app/compartilhado
+    command: python graficos.py
+    restart: unless-stopped
+
+  web:
+    build: ./web
+    ports:
+      - "5000:5000"
+    depends_on:
+      - analise
+    volumes:
+      - ./web:/app
+    command: python app.py
+    restart: unless-stopped
+
+  jenkins:
+    image: jenkins/jenkins:lts
+    ports:
+      - "8080:8080"
+    volumes:
+      - jenkins_home:/var/jenkins_home
+    restart: unless-stopped
+
+volumes:
+  jenkins_home:
+  dados_compartilhados:

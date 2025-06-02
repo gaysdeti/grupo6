@@ -13,7 +13,12 @@ library(stringi)
 library(ggplot2)
 
 # 2. Leitura dos dados
-dados <- read.csv("dados_denuncia.csv", sep = ";", na.strings = "", stringsAsFactors = FALSE)
+caminho <- "/app/dados/dados_denuncia.csv"
+if (file.exists(caminho)) {
+  dados <- read.csv(caminho, sep = ";", na.strings = "", stringsAsFactors = FALSE)
+} else {
+  stop(paste("Arquivo não encontrado em:", caminho))
+}
 
 # 3. Renomear colunas
 colnames(dados) <- c("ID", "TipoDenuncia", "IDViolencia", "TipoViolencia", "PeriodoDia", 
@@ -117,9 +122,9 @@ dados <- dados %>%
 
 #7.2 Removendo homens cis heteros
 dados <- dados %>%
-  filter(!(tolower(trimws(genero)) == "masculino" &
-           tolower(trimws(identidade)) == "cisgenero" &
-           tolower(trimws(orientacao)) == "heterossexual"))
+  filter(!(tolower(trimws(GeneroBiologico)) == "masculino" &
+           tolower(trimws(IdentidadeGenero)) == "cisgenero" &
+           tolower(trimws(OrientacaoSexual)) == "heterossexual"))
 
 # 8. Preenchimento de valores faltantes com moda (para texto)
 moda <- function(x) {
@@ -140,9 +145,15 @@ dados[] <- lapply(dados, function(col) {
 })
 dados <- droplevels(dados)
 
+# Garantir que IdentidadeGenero não tenha NA
+if (any(is.na(dados$IdentidadeGenero))) {
+  moda_genero <- names(sort(table(dados$IdentidadeGenero), decreasing = TRUE))[1]
+  dados$IdentidadeGenero[is.na(dados$IdentidadeGenero)] <- moda_genero
+}
+
 # 10. Salvar os dados tratados
 write.table(dados,
-            file = "dados_tratados.csv",
+            file = "/app/dados/dados_tratados.csv",
             sep = ";",
             row.names = FALSE,
             col.names = TRUE,
