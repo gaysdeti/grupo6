@@ -6,7 +6,7 @@ pipeline {
     }
 
     triggers {
-        cron('H/1 * * * *') // Executa a cada 1 minuto
+        cron('*/2 * * * *') // Executa a cada 2 minutos
     }
 
     stages {
