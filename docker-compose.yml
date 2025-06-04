@@ -1,51 +1,39 @@
 services:
-  gerador:
-    build: ./gerador
-    volumes:
-      - ./dados:/app/dados
-      - dados_compartilhados:/app/dados
-    command: python gerador.py
-    restart: unless-stopped
-
-  tratamento:
-    build: ./tratamento
-    volumes:
-      - ./dados:/app/dados
-      - dados_compartilhados:/app/dados
-    command: Rscript tratamento.R
-    restart: unless-stopped
-
-  analise:
-    build: ./analise
-    volumes:
-      - ./dados:/app/dados
-      - dados_compartilhados:/app/dados
-    command: python graficos.py
-    restart: unless-stopped
-
+  # Serviço WEB permanece rodando sempre, pois serve a página
   web:
     build: ./web
     ports:
       - "5000:5000"
     depends_on:
-      - analise
+      - grafana
     volumes:
       - ./web:/app
       - dados_compartilhados:/app/dados
     command: python app.py
     restart: unless-stopped
 
+  # Jenkins roda permanentemente e executa os outros como jobs temporários
   jenkins:
     build: ./jenkins
     ports:
-      - "8080:8080"
+      - "8090:8080"
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - jenkins_home:/var/jenkins_home
     extra_hosts:
-    - "host.docker.internal:host-gateway"
+      - "host.docker.internal:host-gateway"
     restart: unless-stopped
 
+  # Grafana para monitoramento
+  grafana:
+    image: grafana/grafana
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./grafana:/var/lib/grafana
+    restart: unless-stopped
+
+  # Prometheus para métricas
   prometheus:
     image: prom/prometheus
     volumes:
@@ -54,14 +42,7 @@ services:
       - "9090:9090"
     restart: unless-stopped
 
-  grafana:
-    image: grafana/grafana
-    ports:
-      - "3000:3000"
-    volumes:
-    - ./grafana:/var/lib/grafana
-    restart: unless-stopped
-
+  # cAdvisor para monitorar containers
   cadvisor:
     image: gcr.io/cadvisor/cadvisor:latest
     ports:
@@ -73,6 +54,32 @@ services:
       - /var/lib/docker/:/var/lib/docker:ro
     restart: unless-stopped
 
+# Esses três não devem ficar rodando sempre: Jenkins os executa com "run --rm"
+# Ainda assim, mantenha o build configurado para Jenkins usar.
+
+  gerador:
+    build: ./gerador
+    volumes:
+      - ./dados:/app/dados
+      - dados_compartilhados:/app/dados
+    command: python gerador.py
+    restart: "no"  # Não precisa subir automaticamente
+
+  tratamento:
+    build: ./tratamento
+    volumes:
+      - ./dados:/app/dados
+      - dados_compartilhados:/app/dados
+    command: Rscript tratamento.R
+    restart: "no"
+
+  analise:
+    build: ./analise
+    volumes:
+      - ./dados:/app/dados
+      - dados_compartilhados:/app/dados
+    command: python graficos.py
+    restart: "no"
 
 volumes:
   jenkins_home:
