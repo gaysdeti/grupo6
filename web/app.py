@@ -1,18 +1,23 @@
-from flask import Flask, render_template, send_from_directory
+from flask import Flask, render_template, send_from_directory, jsonify
 import os
 
 app = Flask(__name__)
 
 @app.route("/")
 def exibir_graficos():
-    arquivos = os.listdir("/app/dados")  # Caminho certo montado via volume
-    imagens = [f for f in arquivos if f.endswith(".png")]
-    print("Imagens encontradas:", imagens)
-    return render_template("index.html", imagens=imagens)
+    return render_template("index.html")
 
 @app.route("/dados/<path:filename>")
 def servir_imagem(filename):
-    return send_from_directory("/app/dados", filename) #mostrar imagens no html
+    from flask import make_response
+    response = make_response(send_from_directory("/app/dados", filename))
+    response.headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
+    response.headers["Pragma"] = "no-cache"
+    response.headers["Expires"] = "0"
+    return response
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000) #porta de exibicao
+@app.route("/imagens")
+def listar_imagens():
+    arquivos = os.listdir("/app/dados")
+    imagens = [f for f in arquivos if f.endswith(".png")]
+    return jsonify(imagens)
