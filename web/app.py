@@ -20,3 +20,6 @@ def listar_imagens():
     arquivos = os.listdir("/app/dados")
     imagens = [f for f in arquivos if f.endswith(".png")]
     return jsonify(imagens)
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000, debug=True)
