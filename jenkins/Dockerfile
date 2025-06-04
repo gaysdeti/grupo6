@@ -15,4 +15,6 @@ RUN apt-get update && \
     apt-get update && \
     apt-get install -y docker-ce-cli
 
+RUN git config --global --add safe.directory /var/jenkins_home/workspace/Pipeline-ProjetoPI7
+
 #USER jenkins
