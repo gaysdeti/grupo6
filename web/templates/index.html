@@ -4,8 +4,10 @@
   <meta charset="UTF-8">
   <title>Gráficos do Projeto</title>
   <style>
-    body { font-family: Arial, sans-serif; background: #f4f4f4; text-align: center; }
-    img { max-width: 80%; margin: 20px auto; border: 1px solid #ccc; background: white; padding: 10px; }
+    body { font-family: Arial, sans-serif; background: #f4f4f4; text-align: center; padding-bottom: 50px; }
+    .grafico { margin: 30px auto; padding: 10px; background: white; border: 1px solid #ccc; width: 85%; }
+    .grafico img { max-width: 100%; }
+    h2 { margin-bottom: 10px; }
   </style>
 </head>
 <body>
@@ -13,27 +15,39 @@
   <div id="imagens"></div>
 
   <script>
-    async function carregarImagens() {
-      try {
-        const res = await fetch('/imagens');
-        const nomes = await res.json();
+    const graficos = [
+      { nome: "grafico_tipo_violencia.png", titulo: "Distribuição por Tipo de Violência" },
+      { nome: "grafico_identidade_genero.png", titulo: "Distribuição por Identidade de Gênero" },
+      { nome: "grafico_orientacao_sexual.png", titulo: "Distribuição por Orientação Sexual" },
+      { nome: "grafico_idade_tipo_denuncia.png", titulo: "Distribuição de Denúncias por Idade" },
+      { nome: "grafico_violencia_identidade_genero.png", titulo: "Tipo de Violência por Identidade de Gênero" },
+      { nome: "grafico_violencia_orientacao_sexual.png", titulo: "Tipo de Violência por Orientação Sexual" },
+      { nome: "grafico_heatmap_violencia_genero.png", titulo: "Correlação entre Violência e Identidade de Gênero (Heatmap)" }
+    ];
 
-        const container = document.getElementById('imagens');
-        container.innerHTML = ''; // limpa os gráficos anteriores
+    function carregarImagens() {
+      const container = document.getElementById('imagens');
+      container.innerHTML = '';
 
-        nomes.forEach(nome => {
-          const img = document.createElement('img');
-          img.src = `/dados/${nome}?timestamp=${Date.now()}`; // força reload real
-          img.alt = nome;
-          container.appendChild(img);
-        });
-      } catch (error) {
-        console.error("Erro ao carregar imagens:", error);
-      }
+      graficos.forEach(grafico => {
+        const bloco = document.createElement('div');
+        bloco.className = "grafico";
+
+        const titulo = document.createElement('h2');
+        titulo.textContent = grafico.titulo;
+
+        const img = document.createElement('img');
+        img.src = `/dados/${grafico.nome}?timestamp=${Date.now()}`;
+        img.alt = grafico.titulo;
+
+        bloco.appendChild(titulo);
+        bloco.appendChild(img);
+        container.appendChild(bloco);
+      });
     }
 
     carregarImagens();
-    setInterval(carregarImagens, 60000); // recarrega a cada 1 minuto (gambiarra)
+    setInterval(carregarImagens, 60000);
   </script>
 </body>
 </html>

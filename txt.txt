@@ -1,49 +1,39 @@
-version: '3.9'
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Gráficos do Projeto</title>
+  <style>
+    body { font-family: Arial, sans-serif; background: #f4f4f4; text-align: center; }
+    img { max-width: 80%; margin: 20px auto; border: 1px solid #ccc; background: white; padding: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Gráficos Gerados</h1>
+  <div id="imagens"></div>
 
-services:
-  gerador:
-    build: ./gerador
-    volumes:
-      - ./dados:/app/dados
-      - dados_compartilhados:/app/compartilhado
-    command: python gerador.py
-    restart: unless-stopped
+  <script>
+    async function carregarImagens() {
+      try {
+        const res = await fetch('/imagens');
+        const nomes = await res.json();
 
-  tratamento:
-    build: ./tratamento
-    volumes:
-      - ./dados:/app/dados
-      - dados_compartilhados:/app/compartilhado
-    command: Rscript tratamento.R
-    restart: unless-stopped
+        const container = document.getElementById('imagens');
+        container.innerHTML = ''; // limpa os gráficos anteriores
 
-  analise:
-    build: ./analise
-    volumes:
-      - ./analise:/app
-      - dados_compartilhados:/app/compartilhado
-    command: python graficos.py
-    restart: unless-stopped
+        nomes.forEach(nome => {
+          const img = document.createElement('img');
+          img.src = `/dados/${nome}?timestamp=${Date.now()}`; // força reload real
+          img.alt = nome;
+          container.appendChild(img);
+        });
+      } catch (error) {
+        console.error("Erro ao carregar imagens:", error);
+      }
+    }
 
-  web:
-    build: ./web
-    ports:
-      - "5000:5000"
-    depends_on:
-      - analise
-    volumes:
-      - ./web:/app
-    command: python app.py
-    restart: unless-stopped
-
-  jenkins:
-    image: jenkins/jenkins:lts
-    ports:
-      - "8080:8080"
-    volumes:
-      - jenkins_home:/var/jenkins_home
-    restart: unless-stopped
-
-volumes:
-  jenkins_home:
-  dados_compartilhados:
+    carregarImagens();
+    setInterval(carregarImagens, 60000); // recarrega a cada 1 minuto (gambiarra)
+  </script>
+</body>
+</html>
